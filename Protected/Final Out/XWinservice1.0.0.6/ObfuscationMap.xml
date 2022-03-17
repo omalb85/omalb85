@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AgileDotNet Version="6.6.0.12" Time="10-10-2021 6.20.47 PM">
+  <Module N="XWinService, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null">
+    <Type N="&lt;Module&gt;" />
+    <Type N="&lt;&gt;f__AnonymousType0`1">
+      <Method N="Void .ctor(!0 SalesDataCollection)" />
+      <Method N="Boolean Equals(Object value)" />
+      <Method N="Int32 GetHashCode()" />
+      <Method N="String ToString()" />
+    </Type>
+    <Type N="&lt;&gt;f__AnonymousType1`1">
+      <Method N="Void .ctor(!0 SalesInfo)" />
+      <Method N="Boolean Equals(Object value)" />
+      <Method N="Int32 GetHashCode()" />
+      <Method N="String ToString()" />
+    </Type>
+    <Type N="&lt;&gt;f__AnonymousType2`3">
+      <Method N="Void .ctor(!0 Code, !1 Result, !2 ErrorMsg)" />
+      <Method N="Boolean Equals(Object value)" />
+      <Method N="Int32 GetHashCode()" />
+      <Method N="String ToString()" />
+    </Type>
+    <Type N="Controls.XeText">
+      <Method N="Void .ctor()" />
+    </Type>
+    <Type N="BL.ErrorLog">
+      <Method N="Void ClearErrors()" />
+      <Method N="System.Collections.Generic.IEnumerable&lt;System.Windows.Forms.Control&gt; GetAll(System.Windows.Forms.Control control)" />
+      <Method N="System.Windows.Forms.Control SetError(System.Windows.Forms.Control Controls, String PropName)" />
+      <Method N="Void .ctor()" />
+      <Method N="System.Collections.Generic.IEnumerable&lt;System.Windows.Forms.Control&gt; &lt;GetAll&gt;b__13_0(System.Windows.Forms.Control ctrl)" />
+      <Field N="&lt;ErrorPopertyName&gt;k__BackingField" ON="oRM=" />
+      <Field N="&lt;ErrorMessage&gt;k__BackingField" ON="ohM=" />
+      <Field N="&lt;ErrorList&gt;k__BackingField" ON="oxM=" />
+    </Type>
+    <Type N="BL.TransactionReport">
+      <Method N="Boolean IsDate(String strDate)" />
+      <Method N="Boolean ValidateReport()" />
+      <Method N="System.Data.DataTable GetTransactionReport()" />
+      <Method N="Void Log(String logMessage, System.IO.StreamWriter stWriter, BL.TransactionReport m_TranRepo)" ON="rxM=" />
+      <Method N="Void SigleLineLog(String logMessage, System.IO.StreamWriter stWriter, BL.TransactionReport m_TranRepo)" ON="sBM=" />
+      <Method N="Void WriteLog(String strLog, BL.TransactionReport m_TranRepo)" />
+      <Method N="String SetSyncData(BL.TransactionReport m_TranRepo)" ON="sRM=" />
+      <Method N="Boolean TransactionReportSync(BL.TransactionReport m_TranRepo)" ON="shM=" />
+      <Method N="Boolean StartSynchReportToApi(BL.TransactionReport m_TransactionRepo)" />
+      <Method N="String UploadAPI(String WebAPI, String API_KEY, String JSONString)" />
+      <Method N="Void StartSync(System.Windows.Forms.Form parent)" />
+      <Method N="Void StopSync(System.Windows.Forms.Form parent)" />
+      <Method N="Boolean ReportChecking()" />
+      <Method N="Void .ctor()" />
+      <Field N="m_UniNumber" ON="pBM=" />
+      <Field N="m_LeaseCode" ON="pRM=" />
+      <Field N="m_TransactionDate" ON="phM=" />
+      <Field N="m_TransactionDateString" ON="pxM=" />
+      <Field N="m_TransactionDateTo" ON="qBM=" />
+      <Field N="m_TransactionDateToString" ON="qRM=" />
+      <Field N="m_TransactionCount" ON="qhM=" />
+      <Field N="m_TotalTransNetAmount" ON="qxM=" />
+      <Field N="m_Remarks" ON="rBM=" />
+      <Field N="m_ISDailyReport" ON="rRM=" />
+      <Field N="m_ISMonthlyReport" ON="rhM=" />
+    </Type>
+    <Type N="BL.TransDailyReportJson">
+      <Method N="Void .ctor()" />
+      <Field N="&lt;UnitNo&gt;k__BackingField" ON="sxM=" />
+      <Field N="&lt;LeaseCode&gt;k__BackingField" ON="tBM=" />
+      <Field N="&lt;SalesDate&gt;k__BackingField" ON="tRM=" />
+      <Field N="&lt;TransactionCount&gt;k__BackingField" ON="thM=" />
+      <Field N="&lt;NetSales&gt;k__BackingField" ON="txM=" />
+    </Type>
+    <Type N="BL.TransMonthlyReportJson">
+      <Method N="Void .ctor()" />
+      <Field N="&lt;UnitNo&gt;k__BackingField" ON="sxM=" />
+      <Field N="&lt;LeaseCode&gt;k__BackingField" ON="tBM=" />
+      <Field N="&lt;SalesDateFrom&gt;k__BackingField" ON="uBM=" />
+      <Field N="&lt;SalesDateTo&gt;k__BackingField" ON="uRM=" />
+      <Field N="&lt;TransactionCount&gt;k__BackingField" ON="thM=" />
+      <Field N="&lt;TotalSales&gt;k__BackingField" ON="uhM=" />
+      <Field N="&lt;Remarks&gt;k__BackingField" ON="uxM=" />
+    </Type>
+    <Type N="BL.TransJsonResult">
+      <Method N="Void .ctor()" />
+      <Field N="&lt;Code&gt;k__BackingField" ON="vBM=" />
+      <Field N="&lt;Result&gt;k__BackingField" ON="vRM=" />
+      <Field N="&lt;ErrorMsg&gt;k__BackingField" ON="vhM=" />
+    </Type>
+    <Type N="XWinService.frmHome">
+      <Method N="Void .ctor(Boolean IsConnection)" />
+      <Method N="Void ChildForms(System.Windows.Forms.Form ChildForm)" ON="2xM=" />
+      <Method N="Void SheduleSyncTime()" ON="3BM=" />
+      <Method N="Void Sheduletimer_Elapsed(Object sender, System.Timers.ElapsedEventArgs e)" ON="3RM=" />
+      <Method N="Boolean SetSheduler()" ON="3hM=" />
+      <Method N="Void ShowInNotification()" ON="3xM=" />
+      <Method N="Void btnApi_Click(Object sender, System.EventArgs e)" ON="4BM=" />
+      <Method N="Void frmHome_Load(Object sender, System.EventArgs e)" ON="4RM=" />
+      <Method N="Void btnConnection_Click(Object sender, System.EventArgs e)" ON="4hM=" />
+      <Method N="Void btnApi_Click_1(Object sender, System.EventArgs e)" ON="4xM=" />
+      <Method N="Void btnHome_Click(Object sender, System.EventArgs e)" ON="5BM=" />
+      <Method N="Void frmHome_Resize(Object sender, System.EventArgs e)" ON="5RM=" />
+      <Method N="Void notifyIcon_MouseDoubleClick(Object sender, System.Windows.Forms.MouseEventArgs e)" ON="5hM=" />
+      <Method N="Void btnReport_Click(Object sender, System.EventArgs e)" ON="5xM=" />
+      <Method N="Void SyncTimer_Tick(Object sender, System.EventArgs e)" ON="6BM=" />
+      <Method N="Void frmHome_FormClosed(Object sender, System.Windows.Forms.FormClosedEventArgs e)" ON="6RM=" />
+      <Method N="Void frmHome_FormClosing(Object sender, System.Windows.Forms.FormClosingEventArgs e)" ON="6hM=" />
+      <Method N="Void cmnuShow_Click(Object sender, System.EventArgs e)" ON="6xM=" />
+      <Method N="Void cmnuExit_Click(Object sender, System.EventArgs e)" ON="7BM=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="Sheduletimer" ON="vxM=" />
+      <Field N="activeForm" ON="wBM=" />
+      <Field N="CurrDt" ON="wRM=" />
+      <Field N="ShedDt" ON="whM=" />
+      <Field N="m_ISConnection" ON="wxM=" />
+      <Field N="components" ON="xBM=" />
+      <Field N="panel1" ON="xRM=" />
+      <Field N="pnlLogo" ON="xhM=" />
+      <Field N="label1" ON="xxM=" />
+      <Field N="panel2" ON="yBM=" />
+      <Field N="lblTitle" ON="yRM=" />
+      <Field N="btnApi" ON="yhM=" />
+      <Field N="btnConnection" ON="yxM=" />
+      <Field N="btnHome" ON="zBM=" />
+      <Field N="notifyIcon" ON="zRM=" />
+      <Field N="panel3" ON="zhM=" />
+      <Field N="label3" ON="zxM=" />
+      <Field N="label2" ON="0BM=" />
+      <Field N="lblSyncWith" ON="0RM=" />
+      <Field N="lblSheduledTime" ON="0hM=" />
+      <Field N="pnlMain" ON="0xM=" />
+      <Field N="panel4" ON="1BM=" />
+      <Field N="lblSysDate" ON="1RM=" />
+      <Field N="btnReport" ON="1hM=" />
+      <Field N="lblHomeDate" ON="1xM=" />
+      <Field N="ContextMenu" ON="2BM=" />
+      <Field N="cmnuShow" ON="2RM=" />
+      <Field N="cmnuExit" ON="2hM=" />
+    </Type>
+    <Type N="XWinService.WorkOption" ON="7xM=.7hM=">
+      <Field N="Save" ON="8BM=" />
+      <Field N="Get" ON="8RM=" />
+      <Field N="Search" ON="8hM=" />
+    </Type>
+    <Type N="XWinService.frmConnection">
+      <Method N="Void .ctor()" />
+      <Method N="Void Init()" ON="BxQ=" />
+      <Method N="Void NewConnection()" ON="CBQ=" />
+      <Method N="Void SetProperties()" ON="CRQ=" />
+      <Method N="Void AddProperties()" ON="ChQ=" />
+      <Method N="Void ConnectionSave()" ON="CxQ=" />
+      <Method N="Void ReadConnection()" ON="DBQ=" />
+      <Method N="Void frmConnection_Load(Object sender, System.EventArgs e)" ON="DRQ=" />
+      <Method N="Void btnConnect_Click(Object sender, System.EventArgs e)" ON="DhQ=" />
+      <Method N="Void btnCancel_Click(Object sender, System.EventArgs e)" ON="DxQ=" />
+      <Method N="Void backgroundWorker_DoWork(Object sender, System.ComponentModel.DoWorkEventArgs e)" ON="EBQ=" />
+      <Method N="Void backgroundWorker_RunWorkerCompleted(Object sender, System.ComponentModel.RunWorkerCompletedEventArgs e)" ON="ERQ=" />
+      <Method N="Void frmConnection_Shown(Object sender, System.EventArgs e)" ON="EhQ=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="m_ConString" ON="8xM=" />
+      <Field N="m_DBConnection" ON="9BM=" />
+      <Field N="m_BindingSource" ON="9RM=" />
+      <Field N="m_ErrorProvider" ON="9hM=" />
+      <Field N="m_FocusControlsList" ON="9xM=" />
+      <Field N="ActionOption" ON="/BM=" />
+      <Field N="Dialogue" ON="/RM=" />
+      <Field N="CThread" ON="/hM=" />
+      <Field N="components" ON="xBM=" />
+      <Field N="panel2" ON="yBM=" />
+      <Field N="panel1" ON="xRM=" />
+      <Field N="txtPassword" ON="/xM=" />
+      <Field N="label3" ON="zxM=" />
+      <Field N="txtUserName" ON="ABQ=" />
+      <Field N="label2" ON="0BM=" />
+      <Field N="txtServerName" ON="ARQ=" />
+      <Field N="label1" ON="xxM=" />
+      <Field N="btnConnect" ON="AhQ=" />
+      <Field N="errorProvider" ON="AxQ=" />
+      <Field N="txtDB" ON="BBQ=" />
+      <Field N="lblDB" ON="BRQ=" />
+      <Field N="backgroundWorkerCon" ON="BhQ=" />
+    </Type>
+    <Type N="XWinService.frmDialouge">
+      <Method N="Void .ctor(String Message)" />
+      <Method N="Void frmDialouge_Load(Object sender, System.EventArgs e)" ON="FhQ=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="&lt;m_Message&gt;k__BackingField" ON="ExQ=" />
+      <Field N="components" ON="xBM=" />
+      <Field N="picLoad" ON="FBQ=" />
+      <Field N="lblMessage" ON="FRQ=" />
+    </Type>
+    <Type N="XWinService.frmXWinService">
+      <Method N="Void .ctor(System.Windows.Forms.Form frmParent)" />
+      <Method N="Void Init()" ON="BxQ=" />
+      <Method N="Void NewApiConnection()" ON="MhQ=" />
+      <Method N="Void SetProperties()" ON="CRQ=" />
+      <Method N="Void AddProperties()" ON="ChQ=" />
+      <Method N="Void ApiSettingSave()" ON="MxQ=" />
+      <Method N="Void ReadConnection()" ON="DBQ=" />
+      <Method N="Boolean SaveConfigSettings()" ON="NBQ=" />
+      <Method N="XWinService.BL.ApiConnection GetSettings()" ON="NRQ=" />
+      <Method N="Boolean IsDate(String strDate)" />
+      <Method N="Void frmXWinService_Load(Object sender, System.EventArgs e)" ON="NhQ=" />
+      <Method N="Void btnSave_Click(Object sender, System.EventArgs e)" ON="NxQ=" />
+      <Method N="Void backgroundWorker_DoWork(Object sender, System.ComponentModel.DoWorkEventArgs e)" ON="EBQ=" />
+      <Method N="Void backgroundWorker_RunWorkerCompleted(Object sender, System.ComponentModel.RunWorkerCompletedEventArgs e)" ON="ERQ=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="m_ApiConnection" ON="FxQ=" />
+      <Field N="m_BindingSource" ON="9RM=" />
+      <Field N="m_ErrorProvider" ON="9hM=" />
+      <Field N="m_FocusControlsList" ON="9xM=" />
+      <Field N="Dialogue" ON="/RM=" />
+      <Field N="workOption" ON="GBQ=" />
+      <Field N="ParentForm" ON="GRQ=" />
+      <Field N="components" ON="xBM=" />
+      <Field N="panel1" ON="xRM=" />
+      <Field N="btnSave" ON="GhQ=" />
+      <Field N="pnlTop" ON="GxQ=" />
+      <Field N="label2" ON="0BM=" />
+      <Field N="txtSecretD" ON="HBQ=" />
+      <Field N="label1" ON="xxM=" />
+      <Field N="txtAPIKeyD" ON="HRQ=" />
+      <Field N="txtAPID" ON="HhQ=" />
+      <Field N="lblApi" ON="HxQ=" />
+      <Field N="groupBox1" ON="IBQ=" />
+      <Field N="dtSyncStartDate" ON="IRQ=" />
+      <Field N="label3" ON="zxM=" />
+      <Field N="groupBox3" ON="IhQ=" />
+      <Field N="label5" ON="IxQ=" />
+      <Field N="label4" ON="JBQ=" />
+      <Field N="dtTimeStamp" ON="JRQ=" />
+      <Field N="label6" ON="JhQ=" />
+      <Field N="backgroundWorker" ON="JxQ=" />
+      <Field N="chkEnableSync" ON="KBQ=" />
+      <Field N="txtLeaseCode" ON="KRQ=" />
+      <Field N="txtUnitNumber" ON="KhQ=" />
+      <Field N="groupBox4" ON="KxQ=" />
+      <Field N="txtAPIM" ON="LBQ=" />
+      <Field N="label7" ON="LRQ=" />
+      <Field N="label8" ON="LhQ=" />
+      <Field N="txtAPIKEYM" ON="LxQ=" />
+      <Field N="txtSecurityM" ON="MBQ=" />
+      <Field N="label9" ON="MRQ=" />
+    </Type>
+    <Type N="XWinService.Program" ON="7xM=.OBQ=">
+      <Method N="Void Main()" ON="ORQ=" />
+      <Method N="Boolean CheckServerConnection()" ON="OhQ=" />
+      <Method N="Void GetGlobals()" ON="OxQ=" />
+      <Method N="Void SheduleSyncTime()" ON="3BM=" />
+      <Method N="Void Sheduletimer_Elapsed(Object sender, System.Timers.ElapsedEventArgs e)" ON="3RM=" />
+      <Method N="Void GetSettings()" ON="NRQ=" />
+      <Field N="Sheduletimer" ON="vxM=" />
+    </Type>
+    <Type N="XWinService.Properties.Resources" ON="PRQ=.PBQ=">
+      <Property N="ResourceManager" ON="QRQ=">
+        <Getter N="System.Resources.ResourceManager get_ResourceManager()" ON="QBQ=" />
+      </Property>
+      <Property N="Culture" ON="RBQ=">
+        <Getter N="System.Globalization.CultureInfo get_Culture()" ON="QhQ=" />
+        <Setter N="Void set_Culture(System.Globalization.CultureInfo value)" ON="QxQ=" />
+      </Property>
+      <Method N="Void .ctor()" />
+      <Field N="resourceMan" ON="PhQ=" />
+      <Field N="resourceCulture" ON="PxQ=" />
+    </Type>
+    <Type N="XWinService.Properties.Settings">
+      <Method N="Void .ctor()" />
+      <Method N="Void .cctor()" />
+    </Type>
+    <Type N="XWinService.UI.frmTransactionReportSynch">
+      <Method N="Void .ctor()" />
+      <Method N="Void Init()" ON="BxQ=" />
+      <Method N="Void NewTransReport()" ON="WxQ=" />
+      <Method N="Void SetProperties()" ON="CRQ=" />
+      <Method N="Void AddProperties()" ON="ChQ=" />
+      <Method N="Void Log(String logMessage, System.IO.StreamWriter stWriter)" ON="rxM=" />
+      <Method N="Void SigleLineLog(String logMessage, System.IO.StreamWriter stWriter)" ON="sBM=" />
+      <Method N="Void WriteLog(String strLog)" />
+      <Method N="Void frmTransactionReportSynch_Load(Object sender, System.EventArgs e)" ON="XBQ=" />
+      <Method N="Void ShowReport()" ON="XRQ=" />
+      <Method N="Void SyncReport()" ON="XhQ=" />
+      <Method N="Void btnPush_Click(Object sender, System.EventArgs e)" ON="XxQ=" />
+      <Method N="String UploadAPI(String WebAPI, String API_KEY, String JSONString)" />
+      <Method N="String SetSyncData()" ON="sRM=" />
+      <Method N="String TransactionReportSync()" ON="shM=" />
+      <Method N="Void button1_Click(Object sender, System.EventArgs e)" ON="YBQ=" />
+      <Method N="Void MonthSettings()" ON="YRQ=" />
+      <Method N="Void SetReportType()" ON="YhQ=" />
+      <Method N="Void btnShow_Click(Object sender, System.EventArgs e)" ON="YxQ=" />
+      <Method N="Void rbDailyRepo_CheckedChanged(Object sender, System.EventArgs e)" ON="ZBQ=" />
+      <Method N="Void rbMonthlyRepo_CheckedChanged(Object sender, System.EventArgs e)" ON="ZRQ=" />
+      <Method N="Void backgroundWorker_DoWork(Object sender, System.ComponentModel.DoWorkEventArgs e)" ON="EBQ=" />
+      <Method N="Void backgroundWorker_RunWorkerCompleted(Object sender, System.ComponentModel.RunWorkerCompletedEventArgs e)" ON="ERQ=" />
+      <Method N="Void rdCurrentMonth_CheckedChanged(Object sender, System.EventArgs e)" ON="ZhQ=" />
+      <Method N="Void rdPrevious_CheckedChanged(Object sender, System.EventArgs e)" ON="ZxQ=" />
+      <Method N="Void rdCurrentMonth_Click(Object sender, System.EventArgs e)" ON="aBQ=" />
+      <Method N="Void pnlDaily_Paint(Object sender, System.Windows.Forms.PaintEventArgs e)" ON="aRQ=" />
+      <Method N="Void frmTransactionReportSynch_FormClosing(Object sender, System.Windows.Forms.FormClosingEventArgs e)" ON="ahQ=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="m_TranRepo" ON="RRQ=" />
+      <Field N="m_BindingSource" ON="9RM=" />
+      <Field N="m_ErrorProvider" ON="9hM=" />
+      <Field N="m_FocusControlsList" ON="9xM=" />
+      <Field N="l1" ON="RhQ=" />
+      <Field N="objReportJson" ON="RxQ=" />
+      <Field N="Dialogue" ON="/RM=" />
+      <Field N="workOption" ON="GBQ=" />
+      <Field N="CurrentMonth" ON="SBQ=" />
+      <Field N="components" ON="xBM=" />
+      <Field N="panel1" ON="xRM=" />
+      <Field N="pnlTransMain" ON="SRQ=" />
+      <Field N="groupBox1" ON="IBQ=" />
+      <Field N="rbMonthlyRepo" ON="ShQ=" />
+      <Field N="rbDailyRepo" ON="SxQ=" />
+      <Field N="SErrorProvider" ON="TBQ=" />
+      <Field N="errorProvider1" ON="TRQ=" />
+      <Field N="backgroundWorker" ON="JxQ=" />
+      <Field N="rdCurrentMonth" ON="ThQ=" />
+      <Field N="pnlDaily" ON="TxQ=" />
+      <Field N="dtTranDate" ON="UBQ=" />
+      <Field N="label8" ON="LhQ=" />
+      <Field N="label10" ON="URQ=" />
+      <Field N="dtTransDateTo" ON="UhQ=" />
+      <Field N="lblUnitNumber" ON="UxQ=" />
+      <Field N="label2" ON="0BM=" />
+      <Field N="txtRemarks" ON="VBQ=" />
+      <Field N="txtUnitNumber" ON="KhQ=" />
+      <Field N="label4" ON="JBQ=" />
+      <Field N="label3" ON="zxM=" />
+      <Field N="txtTransNetAmount" ON="VRQ=" />
+      <Field N="txtTransCount" ON="VhQ=" />
+      <Field N="lblLeaseCode" ON="VxQ=" />
+      <Field N="txtLeaseCode" ON="KRQ=" />
+      <Field N="panel3" ON="zhM=" />
+      <Field N="btnShow" ON="WBQ=" />
+      <Field N="button1" ON="WRQ=" />
+      <Field N="btnPush" ON="WhQ=" />
+    </Type>
+    <Type N="XWinService.UI.WindowsFocusControls">
+      <Method N="Void .ctor(System.Windows.Forms.Control objControl, Int32 TabIndex)" />
+      <Field N="m_DataboundControl" ON="axQ=" />
+      <Field N="m_TabIndex" ON="bBQ=" />
+    </Type>
+    <Type N="XWinService.SQLConnection.ConnectionGlobal" ON="bhQ=.bRQ=">
+      <Property N="SalesServerConnectionExists" ON="cxQ=">
+        <Getter N="Boolean get_SalesServerConnectionExists()" ON="cRQ=" />
+        <Setter N="Void set_SalesServerConnectionExists(Boolean value)" ON="chQ=" />
+      </Property>
+      <Property N="PrimaryConnectionString" ON="dhQ=">
+        <Getter N="String get_PrimaryConnectionString()" ON="dBQ=" />
+        <Setter N="Void set_PrimaryConnectionString(String value)" ON="dRQ=" />
+      </Property>
+      <Method N="Void .ctor()" />
+      <Field N="&lt;SalesServerConnectionExists&gt;k__BackingField" ON="bxQ=" />
+      <Field N="&lt;PrimaryConnectionString&gt;k__BackingField" ON="cBQ=" />
+    </Type>
+    <Type N="XWinService.SQLConnection.SqlCommandType" />
+    <Type N="XWinService.SQLConnection.SqlConnectionType" />
+    <Type N="XWinService.SQLConnection.SqlDataType" />
+    <Type N="XWinService.SQLConnection.SqlParameterDirection" />
+    <Type N="XWinService.SQLConnection.SQLDataServerConnection">
+      <Method N="Void .ctor()" />
+      <Method N="Boolean OpenConnection(XWinService.SQLConnection.SqlConnectionType CnType, String strAnotherConnectionString)" />
+      <Method N="Void CloseConnection(XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Method N="Void CreateCommand(String strCmdText, XWinService.SQLConnection.SqlCommandType cmdType, XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Method N="Void DisposeCommand(XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Method N="System.Data.SqlClient.SqlParameter AddParameter(String strParameterName, Object ParameterValue, XWinService.SQLConnection.SqlDataType dbType, Int32 Size, XWinService.SQLConnection.SqlParameterDirection ParameterDirection, XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Method N="Void ClearParameters(XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Method N="Object GetParameterValue(String ParameterName)" />
+      <Method N="System.Data.DataTable FillDataTable(XWinService.SQLConnection.SqlConnectionType CnType)" />
+      <Field N="objConn" ON="dxQ=" />
+      <Field N="strConBuilder" ON="eBQ=" />
+      <Field N="m_SqlPrimaryCon" ON="eRQ=" />
+      <Field N="m_sqlOtherCon" ON="ehQ=" />
+      <Field N="m_sqlTransactionCon" ON="exQ=" />
+      <Field N="m_sqlCmdPrimary" ON="fBQ=" />
+      <Field N="m_sqlCmdOther" ON="fRQ=" />
+      <Field N="m_PrimaryConnectionString" ON="fhQ=" />
+      <Field N="m_strError" ON="fxQ=" />
+      <Field N="m_IsError" ON="gBQ=" />
+      <Field N="m_SQLQuery" ON="gRQ=" />
+    </Type>
+    <Type N="XWinService.Global.Crypto">
+      <Method N="String GetHardwareID(String drive)" />
+      <Method N="String GetMachineVolumeID(String drive)" />
+      <Method N="String GetCPUID()" />
+      <Method N="String Encript(String Pass)" />
+      <Method N="String Decript(String Pass)" />
+      <Method N="String DecriptBase64(String Pass)" />
+      <Method N="Void .ctor()" />
+    </Type>
+    <Type N="XWinService.Global.SystemGlobals">
+      <Method N="Boolean IsDate(String strDate)" />
+      <Method N="Void NofificationDialouge(String Message)" />
+      <Method N="Void DialogDelay()" ON="jxQ=" />
+      <Method N="Void WaitDialouge(String Message)" />
+      <Method N="Void DialougeStop()" />
+      <Method N="Void SetGlobalSettings()" />
+      <Method N="Void .ctor()" />
+      <Field N="&lt;UnitNumber&gt;k__BackingField" ON="ghQ=" />
+      <Field N="&lt;LeaseCode&gt;k__BackingField" ON="tBM=" />
+      <Field N="&lt;API_D&gt;k__BackingField" ON="gxQ=" />
+      <Field N="&lt;API_KEY_D&gt;k__BackingField" ON="hBQ=" />
+      <Field N="&lt;SecretKey_D&gt;k__BackingField" ON="hRQ=" />
+      <Field N="&lt;API_M&gt;k__BackingField" ON="hhQ=" />
+      <Field N="&lt;API_KEY_M&gt;k__BackingField" ON="hxQ=" />
+      <Field N="&lt;SecretKey_M&gt;k__BackingField" ON="iBQ=" />
+      <Field N="&lt;SheduledTime&gt;k__BackingField" ON="iRQ=" />
+      <Field N="&lt;ApiSyncStartDate&gt;k__BackingField" ON="ihQ=" />
+      <Field N="&lt;ApiLastSyncDate&gt;k__BackingField" ON="ixQ=" />
+      <Field N="&lt;Unitnumber&gt;k__BackingField" ON="jBQ=" />
+      <Field N="&lt;StartSync&gt;k__BackingField" ON="jRQ=" />
+      <Field N="Dialouge" ON="jhQ=" />
+    </Type>
+    <Type N="XWinService.DL.TransactionReportDat">
+      <Method N="System.Data.DataTable GetTransactionReport(BL.TransactionReport obj)" />
+      <Method N="Void .ctor()" />
+    </Type>
+    <Type N="XWinService.BL.ApiConnection">
+      <Method N="Boolean IsDate(String strDate)" />
+      <Method N="Void .ctor()" />
+      <Field N="m_API_D" ON="kBQ=" />
+      <Field N="m_API_Key_D" ON="kRQ=" />
+      <Field N="m_SecretKey_D" ON="khQ=" />
+      <Field N="m_API_M" ON="kxQ=" />
+      <Field N="m_API_Key_M" ON="lBQ=" />
+      <Field N="m_SecretKey_M" ON="lRQ=" />
+      <Field N="m_ApiSyncStartDate" ON="lhQ=" />
+      <Field N="m_UnitNumber" ON="lxQ=" />
+      <Field N="m_LeaseCode" ON="pRM=" />
+      <Field N="m_SheduledTime" ON="mBQ=" />
+      <Field N="m_SheduledTimeStr" ON="mRQ=" />
+      <Field N="m_StartSync" ON="mhQ=" />
+    </Type>
+    <Type N="XWinService.BL.SQLDBConnection">
+      <Method N="Void CheckDbConnection(Microsoft.Win32.RegistryKey Rkey)" />
+      <Method N="Void .ctor()" />
+      <Field N="&lt;ServerName&gt;k__BackingField" ON="mxQ=" />
+      <Field N="&lt;DataBase&gt;k__BackingField" ON="nBQ=" />
+      <Field N="&lt;UserName&gt;k__BackingField" ON="nRQ=" />
+      <Field N="&lt;Password&gt;k__BackingField" ON="nhQ=" />
+      <Field N="&lt;NeverShow&gt;k__BackingField" ON="nxQ=" />
+    </Type>
+    <Type N="XWinService.Global.SystemGlobals+&lt;DialogDelay&gt;d__55">
+      <Method N="Void MoveNext()" />
+      <Method N="Void SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine stateMachine)" />
+    </Type>
+    <Type N="AcceleratedIdeas.AIEncryptor">
+      <Method N="Void .ctor()" />
+      <Method N="Void .ctor(System.ComponentModel.IContainer container)" />
+      <Method N="String EncryptString(String plainText)" />
+      <Method N="String DecryptString(String encryptedText)" />
+      <Method N="Void EncryptFile(String inFile)" />
+      <Method N="Void EncryptFile(String inFile, String outFileName)" />
+      <Method N="Void EncryptFile(String inFile, String outFileName, String outDirectory)" />
+      <Method N="Void DecryptFile(String inFile)" />
+      <Method N="Void DecryptFile(String inFile, String outFileName)" />
+      <Method N="Void DecryptFile(String inFile, String outFileName, String outDirectory)" />
+      <Method N="Void DoTransformFile(String inFile, AcceleratedIdeas.AIEncryptor+TransformType aType, String newFileName, String alternativeDirectory)" ON="pxQ=" />
+      <Method N="Void Dispose(Boolean disposing)" />
+      <Method N="Void InitializeComponent()" ON="7RM=" />
+      <Field N="_PassPhrase" ON="oBQ=" />
+      <Field N="_SaltValue" ON="oRQ=" />
+      <Field N="_AIHashTypes" ON="ohQ=" />
+      <Field N="_FileEncryptExtension" ON="oxQ=" />
+      <Field N="_FileDecryptExtension" ON="pBQ=" />
+      <Field N="_initVector" ON="pRQ=" />
+      <Field N="_passPhraseStrength" ON="phQ=" />
+      <Field N="components" ON="xBM=" />
+    </Type>
+    <Type N="AcceleratedIdeas.AIEncryptor+AIHashTypes" />
+    <Type N="AcceleratedIdeas.AIEncryptor+TransformType" ON="AcceleratedIdeas.AIEncryptor+qBQ=">
+      <Field N="_encrypt" ON="qRQ=" />
+      <Field N="_decrypt" ON="qhQ=" />
+    </Type>
+    <Type N="AcceleratedIdeas.AIException">
+      <Method N="Void .ctor()" />
+      <Method N="Void .ctor(String Message)" />
+      <Field N="_Message" ON="qxQ=" />
+    </Type>
+  </Module>
+</AgileDotNet>

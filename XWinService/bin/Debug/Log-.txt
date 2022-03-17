@@ -1,0 +1,13 @@
+Daily Transaction Report
+Last Sync Time :9.27.20 PM,Last Sync Date: 02 October 2021
+UnitNumber  :TDM-FF-185
+LeaseCode  :t0014942
+SalesDate  :02-10-2021
+TransactionCount  :0
+NetAmount  :0
+  :Synch Report
+-------------------------------
+Daily Transaction Report,Last Sync Time :12.32.19 AM,Last Sync Date: 03 October 2021,UnitNumber :TDM-FF-185,LeaseCode :t0014942,SalesDate :02-10-2021,TransactionCount :0,NetAmount :0,Status:Synch Report
+Daily Transaction Report,Last Sync Time :12.37.04 AM,Last Sync Date: 03 October 2021,UnitNumber :TDM-FF-185,LeaseCode :t0014942,SalesDate :02-10-2021,TransactionCount :0,NetAmount :0,Status:Synch Report
+Daily Transaction Report,Last Sync Time :12.41.10 AM,Last Sync Date: 03 October 2021,UnitNumber :TDM-FF-185,LeaseCode :t0014942,SalesDate :02-10-2021,TransactionCount :0,NetAmount :0,Status:Code :424,Result :Error,ErrorMsg :Unable to update daily sales for Record  # .1- due to LeaseId t0014942 and Unit Number TDM-FF-185 mismatch;
+Daily Transaction Report,Last Sync Time :12.43.08 AM,Last Sync Date: 03 October 2021,UnitNumber :TDM-FF-184,LeaseCode :t0014942,SalesDate :02-10-2021,TransactionCount :0,NetAmount :0,Status:Code :200,Result :No Error Found, All Data has been received successfully,ErrorMsg :

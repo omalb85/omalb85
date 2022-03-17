@@ -1,0 +1,9 @@
+Daily Transaction Report
+Last Sync Time :9.09.18 PM,Last Sync Date: 02 October 2021
+UnitNumber  :TDM-FF-184
+LeaseCode  :t0014942
+SalesDate  :02-10-2021
+TransactionCount  :0
+NetAmount  :0
+  :Synch Report
+-------------------------------

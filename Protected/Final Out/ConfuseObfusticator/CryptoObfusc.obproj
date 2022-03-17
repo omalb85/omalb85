@@ -1,0 +1,19 @@
+<Project Name="New Obfuscator Project" UseRelativePaths="True" PropogateObfuscationSettings="True" PropogateWatermarkSettings="True" PropogateOutputSettings="False" PropogateAuthenticodeSettings="True" CheckVersionsWhileResolvingAssemblies="True" ID="{b77d41b3-6076-4113-a8d0-56edbc223b3e}">
+  <SearchDirectories />
+  <OutputSettings OutputPath=".\Released" EncryptDependancies="True" CompressDependancies="True" MainAssemblyPath="XWinService" RunAssemblyPath="" SNPath="" SignToolPath="" LicensingDLLPath="" LicensingMergeAssemblyName="">
+    <AdditionalAssemblies>
+      <AdditionalAssembly Path="..\..\..\XWinService\bin\Release\Newtonsoft.Json.dll" />
+      <AdditionalAssembly Path="..\..\..\XWinService\bin\Release\AIEncryptor.dll" />
+    </AdditionalAssemblies>
+  </OutputSettings>
+  <ObfuscationSettings RenamingScheme="0" UseOverloadedFieldNames="False" UseOverloadedMethodNames="False" HonorObfuscationAttributes="True" ExcludeSerializedTypes="True" ProcessInlineStrings="True" ForceXAMLProcessingModeExclude="False" />
+  <ObfuscationRules>
+    <Rule Type="1" Target="25" Visibility="31" Pattern="" BaseClassPattern="" Enabled="True" ImmediateParentOnly="True" />
+  </ObfuscationRules>
+  <Assembly Load="true" Path="..\..\..\XWinService\bin\Release\XWinService.exe" XapEntryName="" KeyFilePath="" CertFilePath="" TimeStampURL="" Embed="True" PfxPassword="" PfxPasswordCert="">
+    <ObfuscationSettings EncryptStrings="True" SuppressReflector="True" ReduceMetaData="False" ObfuscationDisposition="1" FlowObfuscation="2" SuppressILDASM="True" SuppressReflection="False" CombineResources="True" EncryptResources="True" CompressResources="True" MarkAsSealed="False" EnableTamperDetection="False" EnableAntiDebugging="False" SymbolRenaming="True" HideExternalCalls="False" HideInternalCalls="False" GeneratePdbFile="True" ObfuscatePdbFileNames="True">
+      <Watermarks Watermark0="" Watermark1="" Watermark2="" Watermark3="" Watermark4="" Watermark5="" Watermark6="" Watermark7="" Watermark8="" Watermark9="" />
+    </ObfuscationSettings>
+  </Assembly>
+  <WarningSuppressions />
+</Project>

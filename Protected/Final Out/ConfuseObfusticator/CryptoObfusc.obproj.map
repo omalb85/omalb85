@@ -1,0 +1,596 @@
+﻿<Mappings><Entry OldName="&lt;&gt;f__AnonymousType0`1.&lt;SalesDataCollection&gt;i__Field" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1.ce70e7592e2b2289b35ab0b08b1808454" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.&lt;SalesInfo&gt;i__Field" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1.c0ade3ebe1156195e73a3e523b2cc40da" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.&lt;Code&gt;i__Field" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.c33445975457a8ce49a030cad30f54929" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.&lt;Result&gt;i__Field" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.c5fd33cc9c451a82b7c8525bf81da7413" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.&lt;ErrorMsg&gt;i__Field" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.c7deca65f020e7feeeb5f72d2df8b02f9" />
+<Entry OldName="BL.ErrorLog.&lt;ErrorPopertyName&gt;k__BackingField" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.ce58ea2cc76529572100a750e4275d056" />
+<Entry OldName="BL.ErrorLog.&lt;ErrorMessage&gt;k__BackingField" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.c17b16acf3c0f489a4fd2ac0f2c570c2c" />
+<Entry OldName="BL.ErrorLog.&lt;ErrorList&gt;k__BackingField" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.cce6b66539cfdeea0de9a126cf81fc06b" />
+<Entry OldName="BL.TransactionReport.m_UniNumber" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cb2dda5e759b9faae6c6bf0242623c626" />
+<Entry OldName="BL.TransactionReport.m_LeaseCode" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cb29ca352b861e92cec8b5c9d6e9f1b11" />
+<Entry OldName="BL.TransactionReport.m_TransactionDate" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.ca36ae88c608fd38a82cfec53be2720d4" />
+<Entry OldName="BL.TransactionReport.m_TransactionDateString" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cd7d801c1dc3a6794c3a3b2ff870768cc" />
+<Entry OldName="BL.TransactionReport.m_TransactionDateTo" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cf417031ab25a355c635e76d22e8e258b" />
+<Entry OldName="BL.TransactionReport.m_TransactionDateToString" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.ca1621df76c50f334ff6fe86a5c899492" />
+<Entry OldName="BL.TransactionReport.m_TransactionCount" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c63d50148be1d539d593944535073953e" />
+<Entry OldName="BL.TransactionReport.m_TotalTransNetAmount" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cf1438726d58430b3c5c61e16153936a7" />
+<Entry OldName="BL.TransactionReport.m_Remarks" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cce2799cd2e400c535b10df17d7da9450" />
+<Entry OldName="BL.TransactionReport.m_ISDailyReport" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.ce7575bfb6d171df2a7875273c7edc110" />
+<Entry OldName="BL.TransactionReport.m_ISMonthlyReport" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c090262601e7ada703735a42184bab0c7" />
+<Entry OldName="BL.TransDailyReportJson.&lt;UnitNo&gt;k__BackingField" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.c66792db2091572463e779b045ad2aedb" />
+<Entry OldName="BL.TransDailyReportJson.&lt;LeaseCode&gt;k__BackingField" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.c6b85773f8a803e8609899e60d06a10c6" />
+<Entry OldName="BL.TransDailyReportJson.&lt;SalesDate&gt;k__BackingField" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.c4054f0814604015054ef1e2e2ee1bc03" />
+<Entry OldName="BL.TransDailyReportJson.&lt;TransactionCount&gt;k__BackingField" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.c48d3426440609006ed476c02dfdf5dea" />
+<Entry OldName="BL.TransDailyReportJson.&lt;NetSales&gt;k__BackingField" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.c7a789f8353742579192d08f8fcd83fcf" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;UnitNo&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c66792db2091572463e779b045ad2aedb" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;LeaseCode&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c6b85773f8a803e8609899e60d06a10c6" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;SalesDateFrom&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c68ec5948fe299c8d479da8f486beee6d" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;SalesDateTo&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c30569d2fd5529b4a3dd3d43b4aa75082" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;TransactionCount&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c48d3426440609006ed476c02dfdf5dea" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;TotalSales&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.c530fbf40863ce12f4f91c6ed364f2a9d" />
+<Entry OldName="BL.TransMonthlyReportJson.&lt;Remarks&gt;k__BackingField" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.cd9765ab3a5d33e9ccd8099ba93e07051" />
+<Entry OldName="BL.TransJsonResult.&lt;Code&gt;k__BackingField" NewName="A.c1aa77374f73e070f5c525dc0de342e69.c4a6f628caed9de54565fc6af4b1f0b89" />
+<Entry OldName="BL.TransJsonResult.&lt;Result&gt;k__BackingField" NewName="A.c1aa77374f73e070f5c525dc0de342e69.c98ad55656f78afe0c02683b568a2c5a6" />
+<Entry OldName="BL.TransJsonResult.&lt;ErrorMsg&gt;k__BackingField" NewName="A.c1aa77374f73e070f5c525dc0de342e69.c412be7e1103b5d744ebf4d9bc65134b8" />
+<Entry OldName="XWinService.frmHome.Sheduletimer" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c9079f127894dd2c608d81eb54e42bbc2" />
+<Entry OldName="XWinService.frmHome.activeForm" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c7a6e1e31bbf1c4ad850de5fd07f3baa1" />
+<Entry OldName="XWinService.frmHome.CurrDt" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c6c832f5a9352c91cdfc22cf514a4782c" />
+<Entry OldName="XWinService.frmHome.ShedDt" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c32fda839ff12877b354c0ba5e714d4da" />
+<Entry OldName="XWinService.frmHome.m_ISConnection" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cda5eaf0ebe0b355443be588fcfda720f" />
+<Entry OldName="XWinService.frmHome.components" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c921b13fcb7d91189bd15922f484343ee" />
+<Entry OldName="XWinService.frmHome.panel1" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c0b3ffbd237c2447d8bfb83fce6236462" />
+<Entry OldName="XWinService.frmHome.pnlLogo" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c329dc82d446b0c3f5299c7d768711063" />
+<Entry OldName="XWinService.frmHome.label1" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cf10b4a3d961665fc36af4fc807ac3516" />
+<Entry OldName="XWinService.frmHome.panel2" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c343e0a5ee5948f3671bc9536f68bfd2c" />
+<Entry OldName="XWinService.frmHome.lblTitle" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c4ecea407664848a3317479ec8a0a64fb" />
+<Entry OldName="XWinService.frmHome.btnApi" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c56b4b17f300143983ded8f6beb3b970d" />
+<Entry OldName="XWinService.frmHome.btnConnection" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c7790bdee8635068ec9957ffdefa2b269" />
+<Entry OldName="XWinService.frmHome.btnHome" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c6252b0320f3b04c12eee3e2b176aeb99" />
+<Entry OldName="XWinService.frmHome.notifyIcon" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ca566af10c338ad25124fdfd9abbadfd0" />
+<Entry OldName="XWinService.frmHome.panel3" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c0f417fbaeed2f9716a076bb924c62776" />
+<Entry OldName="XWinService.frmHome.label3" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c6bf7ef0e62211ecd982a14308e15e470" />
+<Entry OldName="XWinService.frmHome.label2" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c84d09be3dbfb823cbe0b7ff79604823b" />
+<Entry OldName="XWinService.frmHome.lblSyncWith" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ce576fa2425d6aac0c947fbc923db3f1c" />
+<Entry OldName="XWinService.frmHome.lblSheduledTime" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ced7fc60ae7b320be5a4013581ee2d0ec" />
+<Entry OldName="XWinService.frmHome.pnlMain" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ce9a1052b7114c3c598538e58dde613ab" />
+<Entry OldName="XWinService.frmHome.panel4" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ccb351ccd478d5bb6b6a0373f8848cdb6" />
+<Entry OldName="XWinService.frmHome.lblSysDate" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cd3d1b410249a2c704fa1bae19d6c1765" />
+<Entry OldName="XWinService.frmHome.btnReport" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c15d52f35cd8ee7fd45097254dd771243" />
+<Entry OldName="XWinService.frmHome.lblHomeDate" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ca9765e320c949e3fd38d3537b55e2d9a" />
+<Entry OldName="XWinService.frmHome.ContextMenu" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c959270f32ed13a2e3b037233fb52f253" />
+<Entry OldName="XWinService.frmHome.cmnuShow" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c5b13a882504d9a41398a2bb48215b7e3" />
+<Entry OldName="XWinService.frmHome.cmnuExit" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c1404432d3a50805808771943b33132fc" />
+<Entry OldName="XWinService.frmHome.SyncTimer" NewName="A.c251236a03c19cb13f8553d14f7dcf050.SyncTimer" />
+<Entry OldName="XWinService.WorkOption.value__" NewName="A.c00de8a717825b1dde75f6618824076ec.value__" />
+<Entry OldName="XWinService.WorkOption.Save" NewName="A.c00de8a717825b1dde75f6618824076ec.c2bafe2c9bfd8905c6249a769d7fe5377" />
+<Entry OldName="XWinService.WorkOption.Get" NewName="A.c00de8a717825b1dde75f6618824076ec.cc531bc837e40d6ca485984fdb5058cdf" />
+<Entry OldName="XWinService.WorkOption.Search" NewName="A.c00de8a717825b1dde75f6618824076ec.cae749cb3c842e9d9bea3833c515f931e" />
+<Entry OldName="XWinService.frmConnection.m_ConString" NewName="A.c426d03473024e875acda6ba9cd27b7ae.caced140e4e2d825a85982c91fdb24e38" />
+<Entry OldName="XWinService.frmConnection.m_DBConnection" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c712a30577bad583f16d1466849c4153f" />
+<Entry OldName="XWinService.frmConnection.m_BindingSource" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cac7cd420fe7e6192fc4c89f2107d3007" />
+<Entry OldName="XWinService.frmConnection.m_ErrorProvider" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c34323116b2f1d3bfa000aaf0c6849bd4" />
+<Entry OldName="XWinService.frmConnection.m_FocusControlsList" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cdac2f567184ef74c70427a22c00298fd" />
+<Entry OldName="XWinService.frmConnection.ActionOption" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c1bd867e0a04fddb9240a47b70aee14a0" />
+<Entry OldName="XWinService.frmConnection.Dialogue" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cc5e18aecb028c418cb5f207c14c18e87" />
+<Entry OldName="XWinService.frmConnection.CThread" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c0abe2a912eb4fcc25b96ac728d0b1900" />
+<Entry OldName="XWinService.frmConnection.components" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c921b13fcb7d91189bd15922f484343ee" />
+<Entry OldName="XWinService.frmConnection.panel2" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c343e0a5ee5948f3671bc9536f68bfd2c" />
+<Entry OldName="XWinService.frmConnection.panel1" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c0b3ffbd237c2447d8bfb83fce6236462" />
+<Entry OldName="XWinService.frmConnection.txtPassword" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c741ec266069e9f23dae6de2b8981f4eb" />
+<Entry OldName="XWinService.frmConnection.label3" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c6bf7ef0e62211ecd982a14308e15e470" />
+<Entry OldName="XWinService.frmConnection.txtUserName" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c00107ee3af0d7f3c672832442aaba5e8" />
+<Entry OldName="XWinService.frmConnection.label2" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c84d09be3dbfb823cbe0b7ff79604823b" />
+<Entry OldName="XWinService.frmConnection.txtServerName" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c5ef4ed33135841ca34fa813d9d526283" />
+<Entry OldName="XWinService.frmConnection.label1" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cf10b4a3d961665fc36af4fc807ac3516" />
+<Entry OldName="XWinService.frmConnection.btnConnect" NewName="A.c426d03473024e875acda6ba9cd27b7ae.ce6e175e125babb5455c8325faa3f44b8" />
+<Entry OldName="XWinService.frmConnection.errorProvider" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c46886877444bbe497b4d75827ba3db57" />
+<Entry OldName="XWinService.frmConnection.txtDB" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c75f8e05fc699779d5a277ffe762aa2e3" />
+<Entry OldName="XWinService.frmConnection.lblDB" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c5a87307aa424a944e56a3b3d60fffc84" />
+<Entry OldName="XWinService.frmConnection.backgroundWorkerCon" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c40b41171a270b354c55be6c7d2bdfc9f" />
+<Entry OldName="XWinService.frmDialouge.&lt;m_Message&gt;k__BackingField" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.c0c91dba71c7a26954a66d90072bddc1a" />
+<Entry OldName="XWinService.frmDialouge.components" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.c921b13fcb7d91189bd15922f484343ee" />
+<Entry OldName="XWinService.frmDialouge.picLoad" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.c5891b136be5f77ff08b1837b2ca66fbe" />
+<Entry OldName="XWinService.frmDialouge.lblMessage" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.cec061bd6d7b050839e06f2190b03953f" />
+<Entry OldName="XWinService.frmXWinService.m_ApiConnection" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c16c343bee3df26cfad4f3a5e71f564a3" />
+<Entry OldName="XWinService.frmXWinService.m_BindingSource" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cac7cd420fe7e6192fc4c89f2107d3007" />
+<Entry OldName="XWinService.frmXWinService.m_ErrorProvider" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c34323116b2f1d3bfa000aaf0c6849bd4" />
+<Entry OldName="XWinService.frmXWinService.m_FocusControlsList" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cdac2f567184ef74c70427a22c00298fd" />
+<Entry OldName="XWinService.frmXWinService.Dialogue" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cc5e18aecb028c418cb5f207c14c18e87" />
+<Entry OldName="XWinService.frmXWinService.workOption" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cb5dd1bfaebd9f5dc23268196234966c2" />
+<Entry OldName="XWinService.frmXWinService.ParentForm" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c3c55312ee42f423094b703665652051b" />
+<Entry OldName="XWinService.frmXWinService.components" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c921b13fcb7d91189bd15922f484343ee" />
+<Entry OldName="XWinService.frmXWinService.panel1" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c0b3ffbd237c2447d8bfb83fce6236462" />
+<Entry OldName="XWinService.frmXWinService.btnSave" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c07eaba18fafb49cadd13d9e1de02c380" />
+<Entry OldName="XWinService.frmXWinService.pnlTop" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cf9de958ed4960de8754a8f004a30f833" />
+<Entry OldName="XWinService.frmXWinService.label2" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c84d09be3dbfb823cbe0b7ff79604823b" />
+<Entry OldName="XWinService.frmXWinService.txtSecretD" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c4c4cdc765220d05a1ce460477e63043d" />
+<Entry OldName="XWinService.frmXWinService.label1" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cf10b4a3d961665fc36af4fc807ac3516" />
+<Entry OldName="XWinService.frmXWinService.txtAPIKeyD" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c5f881a832840d38f9227abd607fc36cb" />
+<Entry OldName="XWinService.frmXWinService.txtAPID" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c6e10761f23498be71bef44c82746b102" />
+<Entry OldName="XWinService.frmXWinService.lblApi" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c79ae36fcddc675dc6a0343b883242e89" />
+<Entry OldName="XWinService.frmXWinService.groupBox1" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c38aab60652736bf2d7b2dc4115f0ab68" />
+<Entry OldName="XWinService.frmXWinService.dtSyncStartDate" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c3b93095c932748800490b13028353aba" />
+<Entry OldName="XWinService.frmXWinService.label3" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c6bf7ef0e62211ecd982a14308e15e470" />
+<Entry OldName="XWinService.frmXWinService.groupBox3" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.ce1f940aa1c8e4a0247b312a3533b8e09" />
+<Entry OldName="XWinService.frmXWinService.label5" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c53cddb18c9a151d57ac85e8574376f1a" />
+<Entry OldName="XWinService.frmXWinService.label4" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c5e236fcd1849a790d5e7b76a23d15b39" />
+<Entry OldName="XWinService.frmXWinService.dtTimeStamp" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c7e2d780114a0b02c383e6365b19e9662" />
+<Entry OldName="XWinService.frmXWinService.label6" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c82ab7f36123cd3b01589b1a682a5f783" />
+<Entry OldName="XWinService.frmXWinService.backgroundWorker" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cddd612953385cf29258ce95dfda0e507" />
+<Entry OldName="XWinService.frmXWinService.chkEnableSync" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c780863bfd544417e50beb50cdae52593" />
+<Entry OldName="XWinService.frmXWinService.txtLeaseCode" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cc37591ea0fed32183a3353390b469bf1" />
+<Entry OldName="XWinService.frmXWinService.txtUnitNumber" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cdfe1bec984b85a9f37b5d3b073be2b4b" />
+<Entry OldName="XWinService.frmXWinService.groupBox4" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.ce0839a1d7a101b5c29605cc03bfb440c" />
+<Entry OldName="XWinService.frmXWinService.txtAPIM" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cea3d3a484921a645e22a504f32f7b641" />
+<Entry OldName="XWinService.frmXWinService.label7" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c85f80df63cfc9cf3d56ed2893c1176c6" />
+<Entry OldName="XWinService.frmXWinService.label8" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cb979ffc52be79a829af41a1bc0fd3cd9" />
+<Entry OldName="XWinService.frmXWinService.txtAPIKEYM" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.ccc9f2bb90dbedaaa0c1c80b40598c5b9" />
+<Entry OldName="XWinService.frmXWinService.txtSecurityM" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cd2d42b2c5b96d7cade9555d8551538bf" />
+<Entry OldName="XWinService.frmXWinService.label9" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c76364e98c1eda00b0df58be112846584" />
+<Entry OldName="XWinService.Program.Sheduletimer" NewName="A.ce164d149b911e532db3e681557db3d05.c9079f127894dd2c608d81eb54e42bbc2" />
+<Entry OldName="XWinService.Properties.Resources.resourceMan" NewName="A.c4c9338a525af6bd7420a72f971affd66.c2ca34fa551e00f3be2a518b39ce270e5" />
+<Entry OldName="XWinService.Properties.Resources.resourceCulture" NewName="A.c4c9338a525af6bd7420a72f971affd66.c9ad03d555d3e3ffce16cffdeff1e4efc" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.m_TranRepo" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cd1623aa71ecdcd22d86c4188685144ff" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.m_BindingSource" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cac7cd420fe7e6192fc4c89f2107d3007" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.m_ErrorProvider" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c34323116b2f1d3bfa000aaf0c6849bd4" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.m_FocusControlsList" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cdac2f567184ef74c70427a22c00298fd" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.l1" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c32acb88c4ce95bb07ee189a0ea84a284" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.objReportJson" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb00efd86b11fd28efc838d0b54310081" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.Dialogue" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc5e18aecb028c418cb5f207c14c18e87" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.workOption" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb5dd1bfaebd9f5dc23268196234966c2" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.CurrentMonth" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c6a071510c8faf236e738442a55bf0584" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.components" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c921b13fcb7d91189bd15922f484343ee" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.panel1" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c0b3ffbd237c2447d8bfb83fce6236462" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.pnlTransMain" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb8ebae24609bee88442f2963f097fdf3" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.groupBox1" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c38aab60652736bf2d7b2dc4115f0ab68" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rbMonthlyRepo" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c9a89950941c55e070e8ad3f710c6917b" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rbDailyRepo" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.ce9eede55095b8cd5839f37253738105c" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SErrorProvider" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c4135f53a548f7283ceaa21f7caa49bb7" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.errorProvider1" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cdc7530054c31044e73f381502aa9d458" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.backgroundWorker" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cddd612953385cf29258ce95dfda0e507" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rdCurrentMonth" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c8862a4613bc00d4c9a50d22458d52329" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.pnlDaily" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c8d1683251ee39b9eb8142d299163daf2" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.dtTranDate" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc118265c22a9b0dfc3a95095a8916477" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.label8" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb979ffc52be79a829af41a1bc0fd3cd9" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.label10" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c02967a2db4ecb1268c71fcf80ad25823" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.dtTransDateTo" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c19774726c0bc76167954f73ce6e80306" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.lblUnitNumber" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c584a5d9967d25460930b8ffae07fa378" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.label2" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c84d09be3dbfb823cbe0b7ff79604823b" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.txtRemarks" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c7c3ad2e68aea1ab14619a185c6ed003b" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.txtUnitNumber" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cdfe1bec984b85a9f37b5d3b073be2b4b" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.label4" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c5e236fcd1849a790d5e7b76a23d15b39" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.label3" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c6bf7ef0e62211ecd982a14308e15e470" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.txtTransNetAmount" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c8a622ce490ad97c4fe4a9ffaa9c9c5a2" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.txtTransCount" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc3f930a88d532cc56ff0be8f7329fc92" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.lblLeaseCode" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c26b8f0ed5e311cf6fc3bb43a7dd8b566" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.txtLeaseCode" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc37591ea0fed32183a3353390b469bf1" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.panel3" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c0f417fbaeed2f9716a076bb924c62776" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.btnShow" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c9a5e625fd7f8af20290d39f67a59ed46" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.button1" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cfd10b066e9c4b1e70032ba472daea88f" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.btnPush" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.ca633a515df3d49ac51e43c4c7c537c61" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.m_DataboundControl" NewName="A.c0b115b1422aaa953c6a6051a500a6800.c6e9cf7669d54725ee8bc7e75f8ff9127" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.m_TabIndex" NewName="A.c0b115b1422aaa953c6a6051a500a6800.c4e731b254fbb74ca7b6026e913559fae" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.&lt;SalesServerConnectionExists&gt;k__BackingField" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.c611dcf880dc1e04bf4b612d7dd281e35" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.&lt;PrimaryConnectionString&gt;k__BackingField" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.c5d21c07b4b3d1d368b0616cfd4f2ccef" />
+<Entry OldName="XWinService.SQLConnection.SqlCommandType.value__" NewName="A.c9b09f214216fe78eefc4ca0d4d115d50.value__" />
+<Entry OldName="XWinService.SQLConnection.SqlCommandType.StoredProcedure" NewName="A.c9b09f214216fe78eefc4ca0d4d115d50.StoredProcedure" />
+<Entry OldName="XWinService.SQLConnection.SqlCommandType.TableDirect" NewName="A.c9b09f214216fe78eefc4ca0d4d115d50.TableDirect" />
+<Entry OldName="XWinService.SQLConnection.SqlCommandType.Text" NewName="A.c9b09f214216fe78eefc4ca0d4d115d50.Text" />
+<Entry OldName="XWinService.SQLConnection.SqlConnectionType.value__" NewName="A.cdc0cdb9cef66baf2adc152481cbc41d3.value__" />
+<Entry OldName="XWinService.SQLConnection.SqlConnectionType.PrimaryConnection" NewName="A.cdc0cdb9cef66baf2adc152481cbc41d3.PrimaryConnection" />
+<Entry OldName="XWinService.SQLConnection.SqlConnectionType.SecondaryConnection" NewName="A.cdc0cdb9cef66baf2adc152481cbc41d3.SecondaryConnection" />
+<Entry OldName="XWinService.SQLConnection.SqlConnectionType.AnotherConnection" NewName="A.cdc0cdb9cef66baf2adc152481cbc41d3.AnotherConnection" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.value__" NewName="A.ce3486393dfa66ab10f6710c7630601dc.value__" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.BigInt" NewName="A.ce3486393dfa66ab10f6710c7630601dc.BigInt" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Binary" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Binary" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Bit" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Bit" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Char" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Char" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.DateTime" NewName="A.ce3486393dfa66ab10f6710c7630601dc.DateTime" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Decimal" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Decimal" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Float" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Float" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Image" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Image" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Int" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Int" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Money" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Money" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.NChar" NewName="A.ce3486393dfa66ab10f6710c7630601dc.NChar" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.NText" NewName="A.ce3486393dfa66ab10f6710c7630601dc.NText" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.NVarChar" NewName="A.ce3486393dfa66ab10f6710c7630601dc.NVarChar" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Real" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Real" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.UniqueIdentifier" NewName="A.ce3486393dfa66ab10f6710c7630601dc.UniqueIdentifier" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.SmallDateTime" NewName="A.ce3486393dfa66ab10f6710c7630601dc.SmallDateTime" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.SmallInt" NewName="A.ce3486393dfa66ab10f6710c7630601dc.SmallInt" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.SmallMoney" NewName="A.ce3486393dfa66ab10f6710c7630601dc.SmallMoney" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Text" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Text" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Timestamp" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Timestamp" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.TinyInt" NewName="A.ce3486393dfa66ab10f6710c7630601dc.TinyInt" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.VarBinary" NewName="A.ce3486393dfa66ab10f6710c7630601dc.VarBinary" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.VarChar" NewName="A.ce3486393dfa66ab10f6710c7630601dc.VarChar" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Variant" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Variant" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Xml" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Xml" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Udt" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Udt" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Structured" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Structured" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Date" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Date" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.Time" NewName="A.ce3486393dfa66ab10f6710c7630601dc.Time" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.DateTime2" NewName="A.ce3486393dfa66ab10f6710c7630601dc.DateTime2" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.DateTimeOffset" NewName="A.ce3486393dfa66ab10f6710c7630601dc.DateTimeOffset" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.DBNULL" NewName="A.ce3486393dfa66ab10f6710c7630601dc.DBNULL" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType.DB" NewName="A.ce3486393dfa66ab10f6710c7630601dc.DB" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection.value__" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8.value__" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection.Input" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8.Input" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection.Output" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8.Output" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection.InputOutput" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8.InputOutput" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection.ReturnValue" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8.ReturnValue" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.objConn" NewName="A.cd18e77da94f352952164e91ad4a5561a.cf225b1ad2793d997d36164d96b97c6d5" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.strConBuilder" NewName="A.cd18e77da94f352952164e91ad4a5561a.ca786def6f96fa639e04dce91007c1d42" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_SqlPrimaryCon" NewName="A.cd18e77da94f352952164e91ad4a5561a.ce9acee02b67070960de9b7bcdff28256" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_sqlOtherCon" NewName="A.cd18e77da94f352952164e91ad4a5561a.c4f776c97efa381496ecaced615188bfe" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_sqlTransactionCon" NewName="A.cd18e77da94f352952164e91ad4a5561a.c530f08d8f4a201f81f9727441e51cd3a" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_sqlCmdPrimary" NewName="A.cd18e77da94f352952164e91ad4a5561a.c7e1f88b00fbcc59b127351ec485cb4d7" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_sqlCmdOther" NewName="A.cd18e77da94f352952164e91ad4a5561a.c73f934e1c5f7d2583df9cfae42bac221" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_PrimaryConnectionString" NewName="A.cd18e77da94f352952164e91ad4a5561a.c7ff2c1f084e63810178486367c1e3f63" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_strError" NewName="A.cd18e77da94f352952164e91ad4a5561a.c7cdcbf21c9bfbfcca563ef7681d9af6b" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_IsError" NewName="A.cd18e77da94f352952164e91ad4a5561a.c248614436deed8c65c09f7f4776a2f4f" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.m_SQLQuery" NewName="A.cd18e77da94f352952164e91ad4a5561a.cd8ed0b4445370d0399765faaaa834751" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;UnitNumber&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c7172745e45fefd908c202a3b6776517d" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;LeaseCode&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c6b85773f8a803e8609899e60d06a10c6" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;API_D&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.ce0152950239fbdd2d0752bee1cdb0989" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;API_KEY_D&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c03b99f10fe591811bc03362b9e83c1cd" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;SecretKey_D&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c370e79aca5e130bcf2f6dabf789505ff" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;API_M&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c24cdc4a3fb2ad5a8de85f592dc806f98" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;API_KEY_M&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.cfecd014f39930b4d2e2445e537f3bd67" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;SecretKey_M&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c1f42af9e991a092fa20e2b0267af9a02" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;SheduledTime&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.cb76a0f09e3f9fb6fca61e4a7d8a77445" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;ApiSyncStartDate&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c1c21cac08c383c4785d5ded875e49017" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;ApiLastSyncDate&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.cf9c8f99231a1479a90048ca68a7feb4b" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;Unitnumber&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c98ac86ffb0afc66d645376bacc112920" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;StartSync&gt;k__BackingField" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c72055530af27c907b91ac4b2ce16f943" />
+<Entry OldName="XWinService.Global.SystemGlobals.Dialouge" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c50225ab16668025ceb9e84acbf5191f7" />
+<Entry OldName="XWinService.BL.ApiConnection.m_API_D" NewName="A.c7399f490697f116e01f0c13cc5db0051.cd1ba995c86622814d5308fc924eb9ee2" />
+<Entry OldName="XWinService.BL.ApiConnection.m_API_Key_D" NewName="A.c7399f490697f116e01f0c13cc5db0051.c19cf9002264f4d0e87afd8bfc70a48f9" />
+<Entry OldName="XWinService.BL.ApiConnection.m_SecretKey_D" NewName="A.c7399f490697f116e01f0c13cc5db0051.cc8443e56715a1aef5c31a72a7a9e3759" />
+<Entry OldName="XWinService.BL.ApiConnection.m_API_M" NewName="A.c7399f490697f116e01f0c13cc5db0051.c8d4fa740db3c9e4bfc4fb5a9b10750af" />
+<Entry OldName="XWinService.BL.ApiConnection.m_API_Key_M" NewName="A.c7399f490697f116e01f0c13cc5db0051.c56fa9b354c008aff8c23003b75479128" />
+<Entry OldName="XWinService.BL.ApiConnection.m_SecretKey_M" NewName="A.c7399f490697f116e01f0c13cc5db0051.ca78d4cac927ac326be49709af68269fa" />
+<Entry OldName="XWinService.BL.ApiConnection.m_ApiSyncStartDate" NewName="A.c7399f490697f116e01f0c13cc5db0051.cc73b416bbf10cd3d50c9da721887f697" />
+<Entry OldName="XWinService.BL.ApiConnection.m_UnitNumber" NewName="A.c7399f490697f116e01f0c13cc5db0051.c526a7e857ab33555f979809d23e6aa0c" />
+<Entry OldName="XWinService.BL.ApiConnection.m_LeaseCode" NewName="A.c7399f490697f116e01f0c13cc5db0051.cb29ca352b861e92cec8b5c9d6e9f1b11" />
+<Entry OldName="XWinService.BL.ApiConnection.m_SheduledTime" NewName="A.c7399f490697f116e01f0c13cc5db0051.c801815483bca339343ef1ac2c46b18d5" />
+<Entry OldName="XWinService.BL.ApiConnection.m_SheduledTimeStr" NewName="A.c7399f490697f116e01f0c13cc5db0051.cedd2f7a6fd3d75af75f38f18bd0a2556" />
+<Entry OldName="XWinService.BL.ApiConnection.m_StartSync" NewName="A.c7399f490697f116e01f0c13cc5db0051.c99d9404dd0d0ed350395d3392d3efd9f" />
+<Entry OldName="XWinService.BL.SQLDBConnection.&lt;ServerName&gt;k__BackingField" NewName="A.c7f0197721d2ab609bed88a7ec695975b.cfc017e1de0b0301a06da82ec3dfac34c" />
+<Entry OldName="XWinService.BL.SQLDBConnection.&lt;DataBase&gt;k__BackingField" NewName="A.c7f0197721d2ab609bed88a7ec695975b.c5f21b29fde07385fb6bb782b903faba9" />
+<Entry OldName="XWinService.BL.SQLDBConnection.&lt;UserName&gt;k__BackingField" NewName="A.c7f0197721d2ab609bed88a7ec695975b.c2df4ce66127213658070c6a5b35e793e" />
+<Entry OldName="XWinService.BL.SQLDBConnection.&lt;Password&gt;k__BackingField" NewName="A.c7f0197721d2ab609bed88a7ec695975b.c1d3c8c869a6a78cbd4d1a5cad8867701" />
+<Entry OldName="XWinService.BL.SQLDBConnection.&lt;NeverShow&gt;k__BackingField" NewName="A.c7f0197721d2ab609bed88a7ec695975b.c2212d800a928c9e3d3baabe11cc76284" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;DialogDelay&gt;d__55.&lt;&gt;1__state" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0f9a68222995f518b99b1642112c7a6d.c4a7d2f6a696c3b32a9d4753bbaa9e640" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;DialogDelay&gt;d__55.&lt;&gt;t__builder" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0f9a68222995f518b99b1642112c7a6d.c1460f9945b82c05b61f71a40c4b48a34" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;DialogDelay&gt;d__55.&lt;&gt;u__1" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0f9a68222995f518b99b1642112c7a6d.c0d0751461112aec9053316577ed0294e" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1..ctor(&lt;SalesDataCollection&gt;j__TPar SalesDataCollection)" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1..ctor(cd623d3c894f2b47955e741aa78738e2f c6c110795d771bbe87ce4c98848d8b51d)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.get_SalesDataCollection()" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1.get_SalesDataCollection()" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.Equals(Object value)" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.GetHashCode()" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.ToString()" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1.ToString()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1..ctor(&lt;SalesInfo&gt;j__TPar SalesInfo)" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1..ctor(c86b76ce057b6a94ef81775cc70b30905 c8ef3c988ba7e205e42d3f75e0647a265)" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.get_SalesInfo()" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1.get_SalesInfo()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.Equals(Object value)" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.GetHashCode()" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.ToString()" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1.ToString()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3..ctor(&lt;Code&gt;j__TPar Code, &lt;Result&gt;j__TPar Result, &lt;ErrorMsg&gt;j__TPar ErrorMsg)" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3..ctor(c0e95e0059e355130acc2c6d3bb2049bb cb26b93a665f2e80ae0a857afd8516e13, cf1ccaa88fbbfc63c776bcd156eb7483a c7529bb1f6a5fe485d599ad5b45c51d47, c99b060552022b8909cc73d4d97ea07e0 c7225e81ff25b88bf0acf8b629f2da33b)" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.get_Code()" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.get_Code()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.get_Result()" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.get_Result()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.get_ErrorMsg()" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.get_ErrorMsg()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.Equals(Object value)" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.GetHashCode()" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3.ToString()" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3.ToString()" />
+<Entry OldName="Controls.XeText..ctor()" NewName="A.cf5eca90197081a6d625e1da5cfd3c5dc..ctor()" />
+<Entry OldName="Controls.XeText.get_AutoSize()" NewName="A.cf5eca90197081a6d625e1da5cfd3c5dc.get_AutoSize()" />
+<Entry OldName="Controls.XeText.set_AutoSize(Boolean value)" NewName="A.cf5eca90197081a6d625e1da5cfd3c5dc.set_AutoSize(Boolean value)" />
+<Entry OldName="BL.ErrorLog..ctor()" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868..ctor()" />
+<Entry OldName="BL.ErrorLog.get_ErrorPopertyName()" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.get_ErrorPopertyName()" />
+<Entry OldName="BL.ErrorLog.set_ErrorPopertyName(String value)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.set_ErrorPopertyName(String value)" />
+<Entry OldName="BL.ErrorLog.get_ErrorMessage()" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.get_ErrorMessage()" />
+<Entry OldName="BL.ErrorLog.set_ErrorMessage(String value)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.set_ErrorMessage(String value)" />
+<Entry OldName="BL.ErrorLog.get_ErrorList()" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.get_ErrorList()" />
+<Entry OldName="BL.ErrorLog.set_ErrorList(List`1 value)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.set_ErrorList(List`1 value)" />
+<Entry OldName="BL.ErrorLog.ClearErrors()" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.c6dba26e660e95c2c5f84df15a62de3b2()" />
+<Entry OldName="BL.ErrorLog.GetAll(Control control)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.c9cd6fbd7243a6be7bc004b84bba1e993(Control caccdfeac0e6fc0c64f72398acd9eb783)" />
+<Entry OldName="BL.ErrorLog.SetError(Control Controls, String PropName)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.cfb5c032cef52376792a878032b678c79(Control ce19245bf7d8409a58bba27ebae036533, String cd0993728480dff1cd127b861da0fc825)" />
+<Entry OldName="BL.ErrorLog.&lt;GetAll&gt;b__13_0(Control ctrl)" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868.c3f3e5d035a283c4281beb79149c2d7fa(Control c1a165b0cae9785c095ff076c98ec56b3)" />
+<Entry OldName="BL.TransactionReport..ctor()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878..ctor()" />
+<Entry OldName="BL.TransactionReport.get_LeaseCode()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_LeaseCode()" />
+<Entry OldName="BL.TransactionReport.set_LeaseCode(String value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_LeaseCode(String value)" />
+<Entry OldName="BL.TransactionReport.get_UniNumber()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_UniNumber()" />
+<Entry OldName="BL.TransactionReport.set_UniNumber(String value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_UniNumber(String value)" />
+<Entry OldName="BL.TransactionReport.get_TotalTransNetAmount()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TotalTransNetAmount()" />
+<Entry OldName="BL.TransactionReport.set_TotalTransNetAmount(Double value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TotalTransNetAmount(Double value)" />
+<Entry OldName="BL.TransactionReport.get_TransactionCount()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TransactionCount()" />
+<Entry OldName="BL.TransactionReport.set_TransactionCount(Int32 value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TransactionCount(Int32 value)" />
+<Entry OldName="BL.TransactionReport.get_TransactionDateString()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TransactionDateString()" />
+<Entry OldName="BL.TransactionReport.set_TransactionDateString(String value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TransactionDateString(String value)" />
+<Entry OldName="BL.TransactionReport.get_TransactionDate()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TransactionDate()" />
+<Entry OldName="BL.TransactionReport.set_TransactionDate(DateTime value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TransactionDate(DateTime value)" />
+<Entry OldName="BL.TransactionReport.get_TransactionDateTo()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TransactionDateTo()" />
+<Entry OldName="BL.TransactionReport.set_TransactionDateTo(DateTime value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TransactionDateTo(DateTime value)" />
+<Entry OldName="BL.TransactionReport.get_TransactionDateToString()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_TransactionDateToString()" />
+<Entry OldName="BL.TransactionReport.set_TransactionDateToString(String value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_TransactionDateToString(String value)" />
+<Entry OldName="BL.TransactionReport.get_ISMonthlyReport()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_ISMonthlyReport()" />
+<Entry OldName="BL.TransactionReport.set_ISMonthlyReport(Boolean value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_ISMonthlyReport(Boolean value)" />
+<Entry OldName="BL.TransactionReport.get_ISDailyReport()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_ISDailyReport()" />
+<Entry OldName="BL.TransactionReport.set_ISDailyReport(Boolean value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_ISDailyReport(Boolean value)" />
+<Entry OldName="BL.TransactionReport.get_Remarks()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.get_Remarks()" />
+<Entry OldName="BL.TransactionReport.set_Remarks(String value)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.set_Remarks(String value)" />
+<Entry OldName="BL.TransactionReport.IsDate(String strDate)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c27a5f2e852f0ccf4090b9a06afdc758c(String ce38c9bed47b39ceb2150e8bccb2d9120)" />
+<Entry OldName="BL.TransactionReport.ValidateReport()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.ceb335db9c58ac43bbe4a2c4097fd9834()" />
+<Entry OldName="BL.TransactionReport.GetTransactionReport()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c1a91a7d52bdcddc3319e151712fdc5f1()" />
+<Entry OldName="BL.TransactionReport.Log(String logMessage, StreamWriter stWriter, TransactionReport m_TranRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c336ee5c77bf0f40c4bd88da938c899c8(String c89398bf60c20f0c0feb1908c3cddd0af, StreamWriter ce940b2724b6f40b96a639dd7964c5714, c1fb7f3dee03b073c998a50e561eb6878 cd1623aa71ecdcd22d86c4188685144ff)" />
+<Entry OldName="BL.TransactionReport.SigleLineLog(String logMessage, StreamWriter stWriter, TransactionReport m_TranRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.cacdd7599a685b237770fec35afcb40a4(String c89398bf60c20f0c0feb1908c3cddd0af, StreamWriter ce940b2724b6f40b96a639dd7964c5714, c1fb7f3dee03b073c998a50e561eb6878 cd1623aa71ecdcd22d86c4188685144ff)" />
+<Entry OldName="BL.TransactionReport.WriteLog(String strLog, TransactionReport m_TranRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c93de5cabb49e163f4471de23b9e1cc01(String c3a817792dff617cdd162ebf590204983, c1fb7f3dee03b073c998a50e561eb6878 cd1623aa71ecdcd22d86c4188685144ff)" />
+<Entry OldName="BL.TransactionReport.SetSyncData(TransactionReport m_TranRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c849f04acc91a3b9a17ee34dfb20bf557(c1fb7f3dee03b073c998a50e561eb6878 cd1623aa71ecdcd22d86c4188685144ff)" />
+<Entry OldName="BL.TransactionReport.TransactionReportSync(TransactionReport m_TranRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c9142ea3e8958e685276e0222f0b50911(c1fb7f3dee03b073c998a50e561eb6878 cd1623aa71ecdcd22d86c4188685144ff)" />
+<Entry OldName="BL.TransactionReport.StartSynchReportToApi(TransactionReport m_TransactionRepo)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c78366fdbe90588dae8d1b9f526cb7cfd(c1fb7f3dee03b073c998a50e561eb6878 c9d1503df231bc4102625cf343f997012)" />
+<Entry OldName="BL.TransactionReport.UploadAPI(String WebAPI, String API_KEY, String JSONString)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c5e3c4f815c4654a3538a802d8dae49cf(String c3ab66a388d7706da1b09d7c7eb7ba870, String ce85aa0708fc9c8cadd0e169979951712, String cfe6309c5b696581256c42fbf871dc162)" />
+<Entry OldName="BL.TransactionReport.StartSync(Form parent)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c285a5a07a7dc62cc74cd85898a520ccc(Form c314202a60258cd459da66cfe46dd7fdf)" />
+<Entry OldName="BL.TransactionReport.StopSync(Form parent)" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c756a8b6e6e64b8319f93d0b0796cac71(Form c314202a60258cd459da66cfe46dd7fdf)" />
+<Entry OldName="BL.TransactionReport.ReportChecking()" NewName="A.c1fb7f3dee03b073c998a50e561eb6878.c60e622c2a9df4bf6e49619cffda38900()" />
+<Entry OldName="BL.TransDailyReportJson..ctor()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a..ctor()" />
+<Entry OldName="BL.TransDailyReportJson.get_UnitNo()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.get_UnitNo()" />
+<Entry OldName="BL.TransDailyReportJson.set_UnitNo(String value)" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.set_UnitNo(String value)" />
+<Entry OldName="BL.TransDailyReportJson.get_LeaseCode()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.get_LeaseCode()" />
+<Entry OldName="BL.TransDailyReportJson.set_LeaseCode(String value)" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.set_LeaseCode(String value)" />
+<Entry OldName="BL.TransDailyReportJson.get_SalesDate()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.get_SalesDate()" />
+<Entry OldName="BL.TransDailyReportJson.set_SalesDate(String value)" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.set_SalesDate(String value)" />
+<Entry OldName="BL.TransDailyReportJson.get_TransactionCount()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.get_TransactionCount()" />
+<Entry OldName="BL.TransDailyReportJson.set_TransactionCount(String value)" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.set_TransactionCount(String value)" />
+<Entry OldName="BL.TransDailyReportJson.get_NetSales()" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.get_NetSales()" />
+<Entry OldName="BL.TransDailyReportJson.set_NetSales(String value)" NewName="A.cbac7e69e9539e67d733da4da24cbec1a.set_NetSales(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson..ctor()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed..ctor()" />
+<Entry OldName="BL.TransMonthlyReportJson.get_UnitNo()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_UnitNo()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_UnitNo(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_UnitNo(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_LeaseCode()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_LeaseCode()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_LeaseCode(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_LeaseCode(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_SalesDateFrom()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_SalesDateFrom()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_SalesDateFrom(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_SalesDateFrom(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_SalesDateTo()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_SalesDateTo()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_SalesDateTo(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_SalesDateTo(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_TransactionCount()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_TransactionCount()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_TransactionCount(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_TransactionCount(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_TotalSales()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_TotalSales()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_TotalSales(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_TotalSales(String value)" />
+<Entry OldName="BL.TransMonthlyReportJson.get_Remarks()" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.get_Remarks()" />
+<Entry OldName="BL.TransMonthlyReportJson.set_Remarks(String value)" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed.set_Remarks(String value)" />
+<Entry OldName="BL.TransJsonResult..ctor()" NewName="A.c1aa77374f73e070f5c525dc0de342e69..ctor()" />
+<Entry OldName="BL.TransJsonResult.get_Code()" NewName="A.c1aa77374f73e070f5c525dc0de342e69.get_Code()" />
+<Entry OldName="BL.TransJsonResult.set_Code(String value)" NewName="A.c1aa77374f73e070f5c525dc0de342e69.set_Code(String value)" />
+<Entry OldName="BL.TransJsonResult.get_Result()" NewName="A.c1aa77374f73e070f5c525dc0de342e69.get_Result()" />
+<Entry OldName="BL.TransJsonResult.set_Result(String value)" NewName="A.c1aa77374f73e070f5c525dc0de342e69.set_Result(String value)" />
+<Entry OldName="BL.TransJsonResult.get_ErrorMsg()" NewName="A.c1aa77374f73e070f5c525dc0de342e69.get_ErrorMsg()" />
+<Entry OldName="BL.TransJsonResult.set_ErrorMsg(String value)" NewName="A.c1aa77374f73e070f5c525dc0de342e69.set_ErrorMsg(String value)" />
+<Entry OldName="XWinService.frmHome..ctor(Boolean IsConnection)" NewName="A.c251236a03c19cb13f8553d14f7dcf050..ctor(Boolean caf30b56ecc9f6134d016ec62678dd15c)" />
+<Entry OldName="XWinService.frmHome.ChildForms(Form ChildForm)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.caa36bda06e9c8b4e654100f1f7f31e35(Form cca965bb24fcfa78ec689f9ee2b3223bb)" />
+<Entry OldName="XWinService.frmHome.SheduleSyncTime()" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cec8817bc5ccecdba801a44e1c1e94b48()" />
+<Entry OldName="XWinService.frmHome.Sheduletimer_Elapsed(Object sender, ElapsedEventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c94435719386e90066923c56503780cd6(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, ElapsedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.SetSheduler()" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c65cb0f3ef708dccd49f254d9d9f541b7()" />
+<Entry OldName="XWinService.frmHome.ShowInNotification()" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c2d2ee117f0dd47c919a619a7751f8b0b()" />
+<Entry OldName="XWinService.frmHome.btnApi_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c4d67674f6dd915483f441badcb4fcf0e(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.frmHome_Load(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c55e8afac61012cb519757a5c5950462a(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.btnConnection_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ce2fdc8db993f85591f637a1c3592ed44(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.btnApi_Click_1(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ca7266c034b274688da986e70b54da41b(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.btnHome_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cf27f99cfd957ccd738eae7daeb960671(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.frmHome_Resize(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cc60063c6d1a16b5fc2a32dc70aa4b509(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.notifyIcon_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cd9329255ddb902b189c70ea10f63f73a(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, MouseEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.btnReport_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.ce37cc509dfdf55a3c996b8142c2263de(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.SyncTimer_Tick(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cd25ab00020866220049752015b44fc63(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.frmHome_FormClosed(Object sender, FormClosedEventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c65628c67b1ff28250f45c797f150c806(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, FormClosedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.frmHome_FormClosing(Object sender, FormClosingEventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c4290fce5e8285cd4055eb79937c66272(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, FormClosingEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.cmnuShow_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cbc1736cff0de3ea79b46283a14df3939(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.cmnuExit_Click(Object sender, EventArgs e)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.c480c41e494bdaa6134a50b6abf434881(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmHome.Dispose(Boolean disposing)" NewName="A.c251236a03c19cb13f8553d14f7dcf050.Dispose(Boolean disposing)" />
+<Entry OldName="XWinService.frmHome.InitializeComponent()" NewName="A.c251236a03c19cb13f8553d14f7dcf050.cbbb79e9842bbd5f04e92eeffbe50deac()" />
+<Entry OldName="XWinService.frmConnection..ctor()" NewName="A.c426d03473024e875acda6ba9cd27b7ae..ctor()" />
+<Entry OldName="XWinService.frmConnection.Init()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c0850e68ebe27d636a67e6f8f1097c769()" />
+<Entry OldName="XWinService.frmConnection.NewConnection()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c3ad0121a04a5862b107ed288f9486d22()" />
+<Entry OldName="XWinService.frmConnection.SetProperties()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cc4db441d5e371bf1fa812cd6bee787a9()" />
+<Entry OldName="XWinService.frmConnection.AddProperties()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c988f3bc74a599ae149873a5d27965988()" />
+<Entry OldName="XWinService.frmConnection.ConnectionSave()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c9f9948a1f81da324a91aa544cbee2987()" />
+<Entry OldName="XWinService.frmConnection.ReadConnection()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c4cc0b68eda1c45f7e9c7a8521b6c3dff()" />
+<Entry OldName="XWinService.frmConnection.frmConnection_Load(Object sender, EventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c7a3ef448a1539fc5c1147ab3183d8a98(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.btnConnect_Click(Object sender, EventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c57ebe5e53950a0bb01264f044bac484e(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.btnCancel_Click(Object sender, EventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.ca6eda0434afe18b8b075f380cab443d6(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.backgroundWorker_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cb095c26d15bbf152383c4276c3521de0(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, DoWorkEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.backgroundWorker_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c263fd4ad572a2dc7880f4829425b66f7(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, RunWorkerCompletedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.frmConnection_Shown(Object sender, EventArgs e)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.c7b7864ad9f844bfe649aeb9b1104e204(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmConnection.Dispose(Boolean disposing)" NewName="A.c426d03473024e875acda6ba9cd27b7ae.Dispose(Boolean disposing)" />
+<Entry OldName="XWinService.frmConnection.InitializeComponent()" NewName="A.c426d03473024e875acda6ba9cd27b7ae.cbbb79e9842bbd5f04e92eeffbe50deac()" />
+<Entry OldName="XWinService.frmDialouge..ctor(String Message)" NewName="A.c10ed75731618cedf5bfc7a76c1732e58..ctor(String cf72d28e4a32fa975fc7aa47fe4e8bdd9)" />
+<Entry OldName="XWinService.frmDialouge.get_m_Message()" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.get_m_Message()" />
+<Entry OldName="XWinService.frmDialouge.set_m_Message(String value)" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.set_m_Message(String value)" />
+<Entry OldName="XWinService.frmDialouge.frmDialouge_Load(Object sender, EventArgs e)" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.c8778c108c9e19cb6908c96b78bcd1932(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmDialouge.Dispose(Boolean disposing)" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.Dispose(Boolean disposing)" />
+<Entry OldName="XWinService.frmDialouge.InitializeComponent()" NewName="A.c10ed75731618cedf5bfc7a76c1732e58.cbbb79e9842bbd5f04e92eeffbe50deac()" />
+<Entry OldName="XWinService.frmXWinService..ctor(Form frmParent)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e..ctor(Form c2928ade4de7ec50b9b2844b6c8990e1d)" />
+<Entry OldName="XWinService.frmXWinService.Init()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c0850e68ebe27d636a67e6f8f1097c769()" />
+<Entry OldName="XWinService.frmXWinService.NewApiConnection()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cd99087710609e9ef38d4b69595e2b639()" />
+<Entry OldName="XWinService.frmXWinService.SetProperties()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cc4db441d5e371bf1fa812cd6bee787a9()" />
+<Entry OldName="XWinService.frmXWinService.AddProperties()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c988f3bc74a599ae149873a5d27965988()" />
+<Entry OldName="XWinService.frmXWinService.ApiSettingSave()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cd43ac41fb49968c4c00fa3efbf9cf04c()" />
+<Entry OldName="XWinService.frmXWinService.ReadConnection()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c4cc0b68eda1c45f7e9c7a8521b6c3dff()" />
+<Entry OldName="XWinService.frmXWinService.SaveConfigSettings()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c9129ff206dfc0c896fbac1e496e0074b()" />
+<Entry OldName="XWinService.frmXWinService.GetSettings()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cfa5d799ddf7f3b8e7cb4d696b9b7345e()" />
+<Entry OldName="XWinService.frmXWinService.IsDate(String strDate)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c27a5f2e852f0ccf4090b9a06afdc758c(String ce38c9bed47b39ceb2150e8bccb2d9120)" />
+<Entry OldName="XWinService.frmXWinService.frmXWinService_Load(Object sender, EventArgs e)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c003f4458c2ae5137ba246374dd8ff7b9(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmXWinService.btnSave_Click(Object sender, EventArgs e)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c49e5ab2953974655c8c50d42f4be493b(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmXWinService.backgroundWorker_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cb095c26d15bbf152383c4276c3521de0(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, DoWorkEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmXWinService.backgroundWorker_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.c263fd4ad572a2dc7880f4829425b66f7(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, RunWorkerCompletedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.frmXWinService.Dispose(Boolean disposing)" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.Dispose(Boolean disposing)" />
+<Entry OldName="XWinService.frmXWinService.InitializeComponent()" NewName="A.cf75b1004f0a66a2213f19d075c282a9e.cbbb79e9842bbd5f04e92eeffbe50deac()" />
+<Entry OldName="XWinService.Program.Main()" NewName="A.ce164d149b911e532db3e681557db3d05.c4a06385e621644dbaba9d020e13dcb75()" />
+<Entry OldName="XWinService.Program.CheckServerConnection()" NewName="A.ce164d149b911e532db3e681557db3d05.cae72be6c192895c7b59d145c7c67380b()" />
+<Entry OldName="XWinService.Program.GetGlobals()" NewName="A.ce164d149b911e532db3e681557db3d05.c5ac01c2d78483f9d628023e660521024()" />
+<Entry OldName="XWinService.Program.SheduleSyncTime()" NewName="A.ce164d149b911e532db3e681557db3d05.cec8817bc5ccecdba801a44e1c1e94b48()" />
+<Entry OldName="XWinService.Program.Sheduletimer_Elapsed(Object sender, ElapsedEventArgs e)" NewName="A.ce164d149b911e532db3e681557db3d05.c94435719386e90066923c56503780cd6(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, ElapsedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.Program.GetSettings()" NewName="A.ce164d149b911e532db3e681557db3d05.cfa5d799ddf7f3b8e7cb4d696b9b7345e()" />
+<Entry OldName="XWinService.Properties.Resources..ctor()" NewName="A.c4c9338a525af6bd7420a72f971affd66..ctor()" />
+<Entry OldName="XWinService.Properties.Resources.get_ResourceManager()" NewName="A.c4c9338a525af6bd7420a72f971affd66.get_ResourceManager()" />
+<Entry OldName="XWinService.Properties.Resources.get_Culture()" NewName="A.c4c9338a525af6bd7420a72f971affd66.get_Culture()" />
+<Entry OldName="XWinService.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c4c9338a525af6bd7420a72f971affd66.set_Culture(CultureInfo value)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch..ctor()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e..ctor()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.Init()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c0850e68ebe27d636a67e6f8f1097c769()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.NewTransReport()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.ce2590ff28ba23a5db60dbb1b58bdcb94()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SetProperties()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc4db441d5e371bf1fa812cd6bee787a9()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.AddProperties()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c988f3bc74a599ae149873a5d27965988()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.Log(String logMessage, StreamWriter stWriter)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c336ee5c77bf0f40c4bd88da938c899c8(String c89398bf60c20f0c0feb1908c3cddd0af, StreamWriter ce940b2724b6f40b96a639dd7964c5714)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SigleLineLog(String logMessage, StreamWriter stWriter)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cacdd7599a685b237770fec35afcb40a4(String c89398bf60c20f0c0feb1908c3cddd0af, StreamWriter ce940b2724b6f40b96a639dd7964c5714)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.WriteLog(String strLog)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c93de5cabb49e163f4471de23b9e1cc01(String c3a817792dff617cdd162ebf590204983)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.frmTransactionReportSynch_Load(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c2c1b0b6ff1b9d1e06eaa3abdba7cb59c(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.ShowReport()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.caea61e39fafeaaa94a0bcdb795a2766d()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SyncReport()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c66c479c9d3eec3a9c1d7c0438b053eac()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.btnPush_Click(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cf2007f26bb14a8a87674eb3565a87239(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.UploadAPI(String WebAPI, String API_KEY, String JSONString)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c5e3c4f815c4654a3538a802d8dae49cf(String c3ab66a388d7706da1b09d7c7eb7ba870, String ce85aa0708fc9c8cadd0e169979951712, String cfe6309c5b696581256c42fbf871dc162)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SetSyncData()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c849f04acc91a3b9a17ee34dfb20bf557()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.TransactionReportSync()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c9142ea3e8958e685276e0222f0b50911()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.button1_Click(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c2f63b7d53f6e46d6152845510294b1ca(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.MonthSettings()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c4779d560cc528357dfedfa360f47ad30()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.SetReportType()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c72ea023d45a0b900ddff6d223c1b4485()" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.btnShow_Click(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cc4a641d743cd9a7b7465c39ddf7fc7b8(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rbDailyRepo_CheckedChanged(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c77f868803104a8981a6af09e5abaf4a0(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rbMonthlyRepo_CheckedChanged(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c24d28ee51b8be5851fffc6ab517a4fcc(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.backgroundWorker_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb095c26d15bbf152383c4276c3521de0(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, DoWorkEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.backgroundWorker_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c263fd4ad572a2dc7880f4829425b66f7(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, RunWorkerCompletedEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rdCurrentMonth_CheckedChanged(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c2da6f0bc4ef9b28b94dd9846140bd803(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rdPrevious_CheckedChanged(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c63b2113b90f31015eae401bc8086df8f(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.rdCurrentMonth_Click(Object sender, EventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c2e1680113d61d65e11ef6535d0bd43d4(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, EventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.pnlDaily_Paint(Object sender, PaintEventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cb71080e8d210063e3bc1ee3a3ed176e0(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, PaintEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.frmTransactionReportSynch_FormClosing(Object sender, FormClosingEventArgs e)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.c10554dd2fe46f3dd6e41e81187f23201(Object c2caafe4cdda68a9e14f2f3c3ebce58d7, FormClosingEventArgs c3525bf52d69547d6807713628a7c9e36)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.Dispose(Boolean disposing)" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.Dispose(Boolean disposing)" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch.InitializeComponent()" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e.cbbb79e9842bbd5f04e92eeffbe50deac()" />
+<Entry OldName="XWinService.UI.WindowsFocusControls..ctor(Control objControl, Int32 TabIndex)" NewName="A.c0b115b1422aaa953c6a6051a500a6800..ctor(Control cf54bba7f8054aaad636ba859b3d775b7, Int32 cf01cbd37becd61854d6a6245547b8337)" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.get_DataboundControl()" NewName="A.c0b115b1422aaa953c6a6051a500a6800.get_DataboundControl()" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.set_DataboundControl(Control value)" NewName="A.c0b115b1422aaa953c6a6051a500a6800.set_DataboundControl(Control value)" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.get_TabIndex()" NewName="A.c0b115b1422aaa953c6a6051a500a6800.get_TabIndex()" />
+<Entry OldName="XWinService.UI.WindowsFocusControls.set_TabIndex(Int32 value)" NewName="A.c0b115b1422aaa953c6a6051a500a6800.set_TabIndex(Int32 value)" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal..ctor()" NewName="A.c8e774057d7ad94132bbaf6d6d7885989..ctor()" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.get_SalesServerConnectionExists()" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.get_SalesServerConnectionExists()" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.set_SalesServerConnectionExists(Boolean value)" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.set_SalesServerConnectionExists(Boolean value)" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.get_PrimaryConnectionString()" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.get_PrimaryConnectionString()" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal.set_PrimaryConnectionString(String value)" NewName="A.c8e774057d7ad94132bbaf6d6d7885989.set_PrimaryConnectionString(String value)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection..ctor()" NewName="A.cd18e77da94f352952164e91ad4a5561a..ctor()" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.OpenConnection(SqlConnectionType CnType, String strAnotherConnectionString)" NewName="A.cd18e77da94f352952164e91ad4a5561a.cc238883eff0dd6b902b238f899cbd01b(cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673, String c1bfaa1b603f51118157b625c31974745)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.CloseConnection(SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.cd9a39ff607a19d3111e3a8c56ad04128(cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.CreateCommand(String strCmdText, SqlCommandType cmdType, SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.c804e8327acaecf7cbd183143f50f3ff7(String c67b063384ca0d8c6057e9313bfa5c487, c9b09f214216fe78eefc4ca0d4d115d50 c1834386de0e1aadaaaa7ff291ee67779, cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.DisposeCommand(SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.c4af5572112e62223ff6cb9cb5f110a0f(cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.AddParameter(String strParameterName, Object ParameterValue, SqlDataType dbType, Int32 Size, SqlParameterDirection ParameterDirection, SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.cece5fdf4d035728edc3022a76ad63c0f(String c7b5115af6dd7954668a129611b61757c, Object c2a46a45666510d7bc5d611ccab936c21, ce3486393dfa66ab10f6710c7630601dc c0bebac519c33d6f1020063f0d9031e6b, Int32 c6d3b0abc716159e275e5127ad197081c, ccd538c5cba53746d9a3bed4f8aa6daf8 cc4e10dddf2802ec12edb7a883f252009, cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.ClearParameters(SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.c3679445a4c7c3b86c8c2ef4d1447c799(cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.GetParameterValue(String ParameterName)" NewName="A.cd18e77da94f352952164e91ad4a5561a.ce13dec76a7bd4683abd739beeebd9ff3(String cebddff096d664c25cad058ba85744885)" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection.FillDataTable(SqlConnectionType CnType)" NewName="A.cd18e77da94f352952164e91ad4a5561a.c4867b75aab87d8d3a7e6168f8e5519de(cdc0cdb9cef66baf2adc152481cbc41d3 ca095f738e63f8d3a702c5a9d25160673)" />
+<Entry OldName="XWinService.Global.Crypto..ctor()" NewName="A.cff1dc62146238c7bccced3a1cd644e92..ctor()" />
+<Entry OldName="XWinService.Global.Crypto.GetHardwareID(String drive)" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c70636932bb4fb9354defe9c9b3b74992(String cc86d8e44545357acd8463fd9cf9caf74)" />
+<Entry OldName="XWinService.Global.Crypto.GetMachineVolumeID(String drive)" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c8609539342af8892c9eedc9ca0127c59(String cc86d8e44545357acd8463fd9cf9caf74)" />
+<Entry OldName="XWinService.Global.Crypto.GetCPUID()" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c4f9ebadf258a63b7d9503a3953043a62()" />
+<Entry OldName="XWinService.Global.Crypto.Encript(String Pass)" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c978907fae661c741b973832cba6ff99d(String c44bbb613cc0f00e23bab917527fc66eb)" />
+<Entry OldName="XWinService.Global.Crypto.Decript(String Pass)" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c11b53090cb93ff317b28afe69833d69d(String c44bbb613cc0f00e23bab917527fc66eb)" />
+<Entry OldName="XWinService.Global.Crypto.DecriptBase64(String Pass)" NewName="A.cff1dc62146238c7bccced3a1cd644e92.c98148715717f847c60bf587256a1667d(String c44bbb613cc0f00e23bab917527fc66eb)" />
+<Entry OldName="XWinService.Global.SystemGlobals..ctor()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851..ctor()" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_UnitNumber()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_UnitNumber()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_UnitNumber(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_UnitNumber(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_LeaseCode()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_LeaseCode()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_LeaseCode(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_LeaseCode(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_API_D()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_API_D()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_API_D(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_API_D(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_API_KEY_D()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_API_KEY_D()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_API_KEY_D(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_API_KEY_D(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_SecretKey_D()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_SecretKey_D()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_SecretKey_D(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_SecretKey_D(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_API_M()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_API_M()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_API_M(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_API_M(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_API_KEY_M()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_API_KEY_M()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_API_KEY_M(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_API_KEY_M(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_SecretKey_M()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_SecretKey_M()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_SecretKey_M(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_SecretKey_M(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_SheduledTime()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_SheduledTime()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_SheduledTime(DateTime value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_SheduledTime(DateTime value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_ApiSyncStartDate()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_ApiSyncStartDate()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_ApiSyncStartDate(DateTime value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_ApiSyncStartDate(DateTime value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_ApiLastSyncDate()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_ApiLastSyncDate()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_ApiLastSyncDate(DateTime value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_ApiLastSyncDate(DateTime value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_Unitnumber()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_Unitnumber()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_Unitnumber(String value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_Unitnumber(String value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.IsDate(String strDate)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c27a5f2e852f0ccf4090b9a06afdc758c(String ce38c9bed47b39ceb2150e8bccb2d9120)" />
+<Entry OldName="XWinService.Global.SystemGlobals.get_StartSync()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.get_StartSync()" />
+<Entry OldName="XWinService.Global.SystemGlobals.set_StartSync(Boolean value)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.set_StartSync(Boolean value)" />
+<Entry OldName="XWinService.Global.SystemGlobals.NofificationDialouge(String Message)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.cff65aa201e3b5706cb771145a4a02b46(String cf72d28e4a32fa975fc7aa47fe4e8bdd9)" />
+<Entry OldName="XWinService.Global.SystemGlobals.DialogDelay()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c91450a22045cca9e6d3251379cf2f502()" />
+<Entry OldName="XWinService.Global.SystemGlobals.WaitDialouge(String Message)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.cb8b40f3bbd00cc3e6a7e70965f19b82d(String cf72d28e4a32fa975fc7aa47fe4e8bdd9)" />
+<Entry OldName="XWinService.Global.SystemGlobals.DialougeStop()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c253d9ec89dd7fc3a375b64a798b31e07()" />
+<Entry OldName="XWinService.Global.SystemGlobals.SetGlobalSettings()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0d1791b8c9395211493a1f6a72a4aad9()" />
+<Entry OldName="XWinService.DL.TransactionReportDat..ctor()" NewName="A.ceb3957cc6d4c087ce01782f8e393b163..ctor()" />
+<Entry OldName="XWinService.DL.TransactionReportDat.GetTransactionReport(TransactionReport obj)" NewName="A.ceb3957cc6d4c087ce01782f8e393b163.c1a91a7d52bdcddc3319e151712fdc5f1(c1fb7f3dee03b073c998a50e561eb6878 cdcebf659e7c70533e048acb9a1d526c1)" />
+<Entry OldName="XWinService.BL.ApiConnection..ctor()" NewName="A.c7399f490697f116e01f0c13cc5db0051..ctor()" />
+<Entry OldName="XWinService.BL.ApiConnection.get_SecretKey_D()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_SecretKey_D()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_SecretKey_D(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_SecretKey_D(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_API_Key_D()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_API_Key_D()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_API_Key_D(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_API_Key_D(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_API_D()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_API_D()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_API_D(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_API_D(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_LeaseCode()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_LeaseCode()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_LeaseCode(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_LeaseCode(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_Unitnumber()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_Unitnumber()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_Unitnumber(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_Unitnumber(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_ApiSyncStartDate()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_ApiSyncStartDate()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_ApiSyncStartDate(DateTime value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_ApiSyncStartDate(DateTime value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_SheduledTime()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_SheduledTime()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_SheduledTime(DateTime value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_SheduledTime(DateTime value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_SheduledTimeStr()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_SheduledTimeStr()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_SheduledTimeStr(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_SheduledTimeStr(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_StartSync()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_StartSync()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_StartSync(Boolean value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_StartSync(Boolean value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_API_M()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_API_M()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_API_M(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_API_M(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_API_Key_M()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_API_Key_M()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_API_Key_M(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_API_Key_M(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.get_SecretKey_M()" NewName="A.c7399f490697f116e01f0c13cc5db0051.get_SecretKey_M()" />
+<Entry OldName="XWinService.BL.ApiConnection.set_SecretKey_M(String value)" NewName="A.c7399f490697f116e01f0c13cc5db0051.set_SecretKey_M(String value)" />
+<Entry OldName="XWinService.BL.ApiConnection.IsDate(String strDate)" NewName="A.c7399f490697f116e01f0c13cc5db0051.c27a5f2e852f0ccf4090b9a06afdc758c(String ce38c9bed47b39ceb2150e8bccb2d9120)" />
+<Entry OldName="XWinService.BL.SQLDBConnection..ctor()" NewName="A.c7f0197721d2ab609bed88a7ec695975b..ctor()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.get_ServerName()" NewName="A.c7f0197721d2ab609bed88a7ec695975b.get_ServerName()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.set_ServerName(String value)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.set_ServerName(String value)" />
+<Entry OldName="XWinService.BL.SQLDBConnection.get_DataBase()" NewName="A.c7f0197721d2ab609bed88a7ec695975b.get_DataBase()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.set_DataBase(String value)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.set_DataBase(String value)" />
+<Entry OldName="XWinService.BL.SQLDBConnection.get_UserName()" NewName="A.c7f0197721d2ab609bed88a7ec695975b.get_UserName()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.set_UserName(String value)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.set_UserName(String value)" />
+<Entry OldName="XWinService.BL.SQLDBConnection.get_Password()" NewName="A.c7f0197721d2ab609bed88a7ec695975b.get_Password()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.set_Password(String value)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.set_Password(String value)" />
+<Entry OldName="XWinService.BL.SQLDBConnection.get_NeverShow()" NewName="A.c7f0197721d2ab609bed88a7ec695975b.get_NeverShow()" />
+<Entry OldName="XWinService.BL.SQLDBConnection.set_NeverShow(Boolean value)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.set_NeverShow(Boolean value)" />
+<Entry OldName="XWinService.BL.SQLDBConnection.CheckDbConnection(RegistryKey Rkey)" NewName="A.c7f0197721d2ab609bed88a7ec695975b.c359a4ff471d1ac34f74eb486935f39e8(RegistryKey c2f895d9caddd5f43c3cd22f6089420ba)" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;DialogDelay&gt;d__55.MoveNext()" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0f9a68222995f518b99b1642112c7a6d.MoveNext()" />
+<Entry OldName="XWinService.Global.SystemGlobals.&lt;DialogDelay&gt;d__55.SetStateMachine(IAsyncStateMachine stateMachine)" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851.c0f9a68222995f518b99b1642112c7a6d.SetStateMachine(IAsyncStateMachine stateMachine)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1" NewName="A.c6a87e15562bd15fb29a949122f1f8165`1" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1" NewName="A.c25b06cc4106cf7b8485d91959cdcc453`1" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`3" NewName="A.c9ff252f20c4c6fb05a77f7a249ac9b11`3" />
+<Entry OldName="Controls.XeText" NewName="A.cf5eca90197081a6d625e1da5cfd3c5dc" />
+<Entry OldName="BL.ErrorLog" NewName="A.c27e60ccaafbce4c1826a2a3ac7e9a868" />
+<Entry OldName="BL.TransactionReport" NewName="A.c1fb7f3dee03b073c998a50e561eb6878" />
+<Entry OldName="BL.TransDailyReportJson" NewName="A.cbac7e69e9539e67d733da4da24cbec1a" />
+<Entry OldName="BL.TransMonthlyReportJson" NewName="A.cd181bd0b86f831840f29b1d9e0d9f7ed" />
+<Entry OldName="BL.TransJsonResult" NewName="A.c1aa77374f73e070f5c525dc0de342e69" />
+<Entry OldName="XWinService.frmHome" NewName="A.c251236a03c19cb13f8553d14f7dcf050" />
+<Entry OldName="XWinService.WorkOption" NewName="A.c00de8a717825b1dde75f6618824076ec" />
+<Entry OldName="XWinService.frmConnection" NewName="A.c426d03473024e875acda6ba9cd27b7ae" />
+<Entry OldName="XWinService.frmDialouge" NewName="A.c10ed75731618cedf5bfc7a76c1732e58" />
+<Entry OldName="XWinService.frmXWinService" NewName="A.cf75b1004f0a66a2213f19d075c282a9e" />
+<Entry OldName="XWinService.Program" NewName="A.ce164d149b911e532db3e681557db3d05" />
+<Entry OldName="XWinService.Properties.Resources" NewName="A.c4c9338a525af6bd7420a72f971affd66" />
+<Entry OldName="XWinService.UI.frmTransactionReportSynch" NewName="A.c76d2c3eeaad701a4f3d95ec3b596463e" />
+<Entry OldName="XWinService.UI.WindowsFocusControls" NewName="A.c0b115b1422aaa953c6a6051a500a6800" />
+<Entry OldName="XWinService.SQLConnection.ConnectionGlobal" NewName="A.c8e774057d7ad94132bbaf6d6d7885989" />
+<Entry OldName="XWinService.SQLConnection.SqlCommandType" NewName="A.c9b09f214216fe78eefc4ca0d4d115d50" />
+<Entry OldName="XWinService.SQLConnection.SqlConnectionType" NewName="A.cdc0cdb9cef66baf2adc152481cbc41d3" />
+<Entry OldName="XWinService.SQLConnection.SqlDataType" NewName="A.ce3486393dfa66ab10f6710c7630601dc" />
+<Entry OldName="XWinService.SQLConnection.SqlParameterDirection" NewName="A.ccd538c5cba53746d9a3bed4f8aa6daf8" />
+<Entry OldName="XWinService.SQLConnection.SQLDataServerConnection" NewName="A.cd18e77da94f352952164e91ad4a5561a" />
+<Entry OldName="XWinService.Global.Crypto" NewName="A.cff1dc62146238c7bccced3a1cd644e92" />
+<Entry OldName="XWinService.Global.SystemGlobals+&lt;DialogDelay&gt;d__55" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851+c0f9a68222995f518b99b1642112c7a6d" />
+<Entry OldName="XWinService.Global.SystemGlobals" NewName="A.c1dbb74fb8f0e5296cb0f0ee7b52bb851" />
+<Entry OldName="XWinService.DL.TransactionReportDat" NewName="A.ceb3957cc6d4c087ce01782f8e393b163" />
+<Entry OldName="XWinService.BL.ApiConnection" NewName="A.c7399f490697f116e01f0c13cc5db0051" />
+<Entry OldName="XWinService.BL.SQLDBConnection" NewName="A.c7f0197721d2ab609bed88a7ec695975b" />
+</Mappings>
